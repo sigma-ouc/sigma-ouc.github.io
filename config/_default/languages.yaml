@@ -6,17 +6,29 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: SIGMA | 中国海洋大学数据挖掘与学习兴趣小组
+ params:
+   description: 欢迎来到中国海洋大学SIGMA实验室的主页！
+ menu:
+   main:
+    - name: 近期动态
+      url: post
+      weight: 10  
+    - name: 团队成员
+      url: people
+      weight: 20
+    - name: 科研论文
+      url: papers
+      weight: 30
+    - name: 科研项目
+      url: projects
+      weight: 40    
+    - name: 联系我们
+      url: contact
+      weight: 50

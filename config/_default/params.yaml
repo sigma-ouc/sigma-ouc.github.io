@@ -6,10 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: Ocean # Ocean、Minimal、
   theme_night:
   font: native
-  font_size: L
+  font_size: M # xs, s, m, l, xl.
+  mode: light
+  # color: red
 
 # SEO
 
@@ -17,9 +19,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'SIGMA@OUC'
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,24 +34,31 @@ marketing:
 # Site header
 
 header:
+  #选择一个导航块
   navbar:
-    enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false
+    enable: true #显示导航栏？
+    align: r #对齐菜单链接：左（l）、中（c）或右（r）
+    show_logo: true #在导航栏中显示您的网站标题或“assets/media/logo*”图像？
+    # logo:  # ← 新增logo配置
+    #   image: "images/logo.png"  # 路径相对于static/目录
+    #   # image_dark: "images/logo-dark.png"  # 可选暗色模式logo
+    #   width: 30px  # 建议宽度
+    #   height: auto  # 保持比例
+    #   alt: "SIGMA@OUC"  # 替代文本
+    show_language: true  #如果启用show_translations，是否要显示当前语言名称？
+    show_day_night: true # Let the user override the default light/dark mode of your theme?
+    show_search: true  # Let the user search from the nav bar?
+    highlight_active_link: false  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 中国海洋大学SIGMA实验室 | 山东省青岛市黄岛区三沙路1299号'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -98,7 +107,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
