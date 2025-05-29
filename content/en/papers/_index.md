@@ -36,52 +36,52 @@ C36. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**Non-collective Ca
    (**CCF A**, acceptance rate=1042/5404=19.3%)        
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J32. **[VLDBJ 2025]** "Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs"       
+J32. **[VLDBJ 2025]** <span style="color:rgb(0, 130, 196);">"**Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs**"</span>       
    Zhihao Zhang#, Jianpeng Qi*, Lei Cao, Junyu Dong, **Yanwei Yu***       
    *The VLDB Jounral*, (**CCF A**)             
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J33. **[软件学报]** "面向节点分类的多层异质图神经网络"       
+J33. **[软件学报]** <span style="color:rgb(0, 130, 196);">"**面向节点分类的多层异质图神经网络**"</span>              
    于朋健#, 李享#, 齐建鹏, **于彦伟***, 董军宇       
    *软件学报*, (**CCF A**中文期刊)   
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C35. **[ICDE 2025]** "UMGAD: Unsupervised Multiplex Graph Anomaly Detection"  
+C35. **[ICDE 2025]** <span style="color:rgb(0, 130, 196);">"**UMGAD: Unsupervised Multiplex Graph Anomaly Detection**"</span>       
    Xiang Li#, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, **Yanwei Yu***  
    *Proceedings of 41th IEEE International Conference on Data Engineering*  
    (**CCF A**, acceptance rate=300/1465=20.5%)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J32. **[TKDE 2025]** "Dual-Channel Multiplex Graph Neural Networks for Recommendation"  
+J32. **[TKDE 2025]** <span style="color:rgb(0, 130, 196);">"**Dual-Channel Multiplex Graph Neural Networks for Recommendation**"</span>       
    Xiang Li#, Chaofan Fu#, Zhongying Zhao, Guanjie Zheng, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *IEEE Transactions on Knowledge and Data Engineering*, (**CCF A**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C34. **[AAAI 2025]** "Correlation Attention Masked Temporal Transformer for User Identity Linkage using Heterogeneous Mobility Data"  
+C34. **[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Correlation Attention Masked Temporal Transformer for User Identity Linkage using Heterogeneous Mobility Data**"</span>       
    Ziang Yan#, Xingyu Zhao#, Hanqing Ma#, Wei Chen#, Jianpeng Qi, **Yanwei Yu***, Junyu Dong  
    *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C33. **[AAAI 2025]** "Scalable Trajectory-User Linking with Dual-Stream Representation Networks"  
+C33. **[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Scalable Trajectory-User Linking with Dual-Stream Representation Networks**"</span>       
    Hao Zhang#, Wei Chen#, Xingyu Zhao#, Jianpeng Qi, Guiyuan Jiang, ****Yanwei Yu*****  
    *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C32. **[AAAI 2025]** "Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting"  
+C32. **[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting**"</span>       
    Lingxiao Cao#, Bin Wang, Guiyuan Jiang, **Yanwei Yu***, Junyu Dong  
    *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C31. **[AAAI 2025]** "Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation"  
+C31. **[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation**"</span>       
    Jinyu Zhang, Zhongying Zhao, Chao Li, **Yanwei Yu**  
    *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C30. **[ICDE 2025]** "Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration"  
+C30. **[ICDE 2025]** <span style="color:rgb(0, 130, 196);">"**Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration**"</span>       
    Hong Xia#, Xiao Zhang#, Yuan Cao, Lei Cao, **Yanwei Yu***, Junyu Dong  
    *Proceedings of 41th IEEE International Conference on Data Engineering*  
    (**CCF A**, acceptance rate=300/1465=20.5%)   
@@ -100,49 +100,49 @@ J30. **[TGRS 2024]** <span style="color:rgb(0, 130, 196);">"**Adaptive Spatio-Te
    *IEEE Transactions on Geoscience and Remote Sensing*, (JCR Q1)     
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10758730) | [💻 Code]() | [📑 Cite](#)   
 
-C29. **[KDD 2024]** "Dataset Condensation for Time Series Classification via Dual Domain Matching"  
+C29. **[KDD 2024]** <span style="color:rgb(0, 130, 196);">"**Dataset Condensation for Time Series Classification via Dual Domain Matching**"</span>    
    Zhanyu Liu, Ke Hao, Guanjie Zheng, **Yanwei Yu**  
    *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=409/2046=20%)   
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671675) | [💻 Code](#) | [📑 Cite](#)   
 
-C28. **[ECML/PKDD 2024]** "Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation"  
+C28. **[ECML/PKDD 2024]** <span style="color:rgb(0, 130, 196);">"**Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation**"</span>    
    Changsheng Shui#, Xiang Li#, Jianpeng Qi, Guiyuan Jiang, **Yanwei Yu***  
    *Joint European Conference on Machine Learning and Knowledge Discovery in Databases*  
    (**CCF B**, acceptance rate=198/826=24%)  
    [📄 PDF](https://link.springer.com/chapter/10.1007/978-3-031-70365-2_25) | [💻 Code](#) | [📑 Cite](#)
 
-C27. **[CIKM 2024]** "MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs"  
+C27. **[CIKM 2024]** <span style="color:rgb(0, 130, 196);">"**MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs**"</span>    
    Jiantao Li#, Jianpeng Qi#, Yueling Huang, Lei Cao, **Yanwei Yu***, Junyu Dong  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management*  
    (**CCF B**, acceptance rate=347/1496=23%)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3627673.3679694) | [💻 Code](#) | [📑 Cite](#)
 
-C26. **[CIKM 2024]** "Hypergraph Hash Learning for Efficient Trajectory Similarity Computation"  
+C26. **[CIKM 2024]** <span style="color:rgb(0, 130, 196);">"**Hypergraph Hash Learning for Efficient Trajectory Similarity Computation**"</span>    
    Yuan Cao, Lei Li, Xiangru Chen, Xue Xu, Zuojin Huang, **Yanwei Yu***  
    *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management*  
    (**CCF B**, acceptance rate=347/1496=23%)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3627673.3679555) | [💻 Code](https://github.com/caoyuan57/HHL-Traj) | [📑 Cite](#)
 
-C25. **[IJCAI 2024]** "Multi-Relational Graph Attention Network for Social Relationship Inference from Human Mobility Data"  
+C25. **[IJCAI 2024]** <span style="color:rgb(0, 130, 196);">"**Multi-Relational Graph Attention Network for Social Relationship Inference from Human Mobility Data**"</span>    
    Guangming Qin#, Jianpeng Qi#, Bin Wang, Guiyuan Jiang, **Yanwei Yu***, Junyu Dong  
    *Proceeddings of the 33rd International Joint Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=791/5651=14%)  
    [📄 PDF](https://www.ijcai.org/proceedings/2024/0256.pdf) | [💻 Code](https://github.com/qinguangming1999/MRGAN_IJCAI) | [📑 Cite](#)
 
-J29. **[TIST 2024]** "MHGCN+: Multiplex Heterogeneous Graph Convolutional Network"  
+J29. **[TIST 2024]** <span style="color:rgb(0, 130, 196);">"**MHGCN+: Multiplex Heterogeneous Graph Convolutional Network**"</span>    
    Chaofan Fu#, Pengyang Yu#, **Yanwei Yu***, Chao Huang, Zhongying Zhao, Junyu Dong  
    *ACM Transactions on Intelligent Systems and Technology*  
    (Conference Extension, Online)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3650046) | [💻 Code](https://github.com/FuChF/MHGCN-plus) | [📑 Cite](#)
 
-J28. **[TOIS 2024]** "MCN4Rec: Multi-Level Collaborative Neural Network for Next Location Recommendation"  
+J28. **[TOIS 2024]** <span style="color:rgb(0, 130, 196);">"**MCN4Rec: Multi-Level Collaborative Neural Network for Next Location Recommendation**"</span>    
    Shuzhe Li#, Wei Chen#, Bin Wang, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *ACM Transactions on Information Systems*, (**CCF A**, Online)  
      
    [📄 PDF](#) | [💻 Code](https://github.com/quai-mengxiang/MCN4Rec) | [📑 Cite](#)
 
-J27. **[TKDD 2024]** "Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks"  
+J27. **[TKDD 2024]** <span style="color:rgb(0, 130, 196);">"**Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks**"</span>    
    Wei Chen#, Chao Huang, **Yanwei Yu***, Yongguo Jiang, Junyu Dong  
    *ACM Transactions on Knowledge Discovery from Data*, (**CCF B**)  
      
