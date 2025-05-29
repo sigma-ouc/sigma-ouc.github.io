@@ -339,12 +339,12 @@ J11. **[IEEE Access 2020]** <span style="color:rgb(0, 130, 196);">"**Ordering-Ba
 
 ## 📚 2019
 
-J10. **[AAS 2019]** "A fast algorithm for density-based Top-n local outlier detection"  
+J10. **[AAS 2019]** <span style="color:rgb(0, 130, 196);">"**A fast algorithm for density-based Top-n local outlier detection**"</span>    
    Liu Fang#, Jianpeng Qi#, **Yanwei Yu***, Lei Cao, Jindong Zhao  
    *Acta Automatica Sinica*, (**CCF A** Chinese Journal)  
    [📄 PDF](http://www.aas.net.cn/article/id/5ee169d2-4872-4004-add8-903b5a3d5f5a) | [💻 Code](#) | [📑 Cite](#)                
 
-C8. **[WWW 2019]** "Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference"  
+C8. **[WWW 2019]** <span style="color:rgb(0, 130, 196);">"**Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference**"</span>    
    Xianfeng Tang, Boqing Gong, **Yanwei Yu**, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang  
    *Proceeding of The Web Conference 2019*    
    (**CCF A**, acceptance rate=225/1247=18%)  
@@ -354,51 +354,51 @@ C8. **[WWW 2019]** "Joint Modeling of Dense and Incomplete Trajectories for City
 ## 📚 2018
 
 
-J9. **[ESWA 2018]** "Region Compatibility based Stability Assessment for Decision Trees"  
+J9. **[ESWA 2018]** <span style="color:rgb(0, 130, 196);">"**Region Compatibility based Stability Assessment for Decision Trees**"</span>    
    Lihong Wang, Qiang Li, **Yanwei Yu***, Jinglei Liu  
    *Expert Systems with Applications*, (**CCF C**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0957417418301817) | [💻 Code](#) | [📑 Cite](#)                
 
-C7. **[UbiComp 2018]** "Inferring Mobility Relationship using Graph embedding"  
+C7. **[UbiComp 2018]** <span style="color:rgb(0, 130, 196);">"**Inferring Mobility Relationship using Graph embedding**"</span>    
    **Yanwei Yu***, Hongjian Wang, Zhenhui Li  
    *The 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing*  
    (**CCF A**, acceptance rate=24.8%)    
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3264957) | [💻 Code](#) | [📑 Cite](#)              
 
-C6. **[DASFAA 2018]** "Representation Learning for Large-scale Dynamic Networks"  
+C6. **[DASFAA 2018]** <span style="color:rgb(0, 130, 196);">"**Representation Learning for Large-scale Dynamic Networks**"</span>    
    **Yanwei Yu***, Huaxiu Yao, Hongjian Wang, Xianfeng Tang, Zhenhui Li  
    *23rd International Conference on Database System for Advanced Applications*  
    (**CCF B**, acceptance rate=83/360=23%)      
    [📄 PDF](https://link.springer.com/chapter/10.1007/978-3-319-91458-9_32) | [💻 Code](#) | [📑 Cite](#)              
 
-J8. **[IEEE Access 2018]** "A Parameter Space Framework for Online Outlier Detection Over High-Volume Data Streams"  
+J8. **[IEEE Access 2018]** <span style="color:rgb(0, 130, 196);">"**A Parameter Space Framework for Online Outlier Detection Over High-Volume Data Streams**"</span>    
    Guanzhe Zhao#, **Yanwei Yu***, Peng Song, Geng Zhao, Zhe Ji  
    *IEEE Access*  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/8409389/) | [💻 Code](#) | [📑 Cite](#)                
 
-J7. **[JOS 2018]** "Fast density-based clustering algorithm for location big data"  
+J7. **[JOS 2018]** <span style="color:rgb(0, 130, 196);">"**Fast density-based clustering algorithm for location big data**"</span>    
    **Yanwei Yu***, Zhaofei Jia#, Lei Cao, Jindong Zhao, Zhaowei Liu, Jinglei Liu  
    *Ruan Jian Xue Bao/Journal of Software*, (**CCF A** Chinese Journal)  
    [📄 PDF](https://www.jos.org.cn/jos/article/abstract/5289) | [💻 Code](#) | [📑 Cite](#)                
 
-J6. **[JZJU 2018]** "Multi-threading based continuous k-nearest neighbor queries for uncertain moving objects"  
+J6. **[JZJU 2018]** <span style="color:rgb(0, 130, 196);">"**Multi-threading based continuous k-nearest neighbor queries for uncertain moving objects**"</span>    
    Jianpeng Qi#, **Yanwei Yu***, Chuangcun Wang, Lei Cao, Peng Song  
    *Journal of Zhejiang University (Engineering Science)*  
    [📄 PDF](http://cnjournals.com/view_abstract.aspx?aid=671839012930ABCC73DA7FF2AF93B3B6&jid=100C537C9E72A19FF6FA21E4C0EA017A&pcid=5B3AB970F71A803DEACDC0559115BFCF0A068CD97DD29835&yid=EA357AD73C8E13BC) | [💻 Code](#) | [📑 Cite](#)                
 
 ## 📚 2017
 
-J5. **[ACM TODS 2017]** "Outlier Detection over Massive-Scale Trajectory Streams"  
+J5. **[ACM TODS 2017]** <span style="color:rgb(0, 130, 196);">"**Outlier Detection over Massive-Scale Trajectory Streams**"</span>    
    **Yanwei Yu**, Lei Cao, Elke Rundensteiner, Qin Wang  
    *ACM Transactions on Database Systems*, (**CCF A**)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3013527) | [💻 Code](#) | [📑 Cite](#)   
 
-C5. **[MDM 2017]** "Discovering Moving Object Evolving Groups from Massive Trajectory Streams"  
+C5. **[MDM 2017]** <span style="color:rgb(0, 130, 196);">"**Discovering Moving Object Evolving Groups from Massive Trajectory Streams**"</span>    
    Ruoshan Lan#, **Yanwei Yu***, Lei Cao, Peng Song, Yingjie Wang  
    *International Conference on Mobile Data Management*, (**CCF C**, acceptance rate=20/75=26.7%)  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/7962460/) | [💻 Code](#) | [📑 Cite](#)                
 
-J4. **[IJDSN 2017]** "An Effective and Efficient Hierarchical K-means Clustering Algorithm"  
+J4. **[IJDSN 2017]** <span style="color:rgb(0, 130, 196);">"**An Effective and Efficient Hierarchical K-means Clustering Algorithm**"</span>    
    Jianpeng Qi#, **Yanwei Yu***, Lihong Wang, Jinglei Liu, Yingjie Wang  
    *International Journal of Distributed Sensor Networks*  
    [📄 PDF](https://journals.sagepub.com/doi/full/10.1177/1550147717728627) | [💻 Code](#) | [📑 Cite](#)                
@@ -406,18 +406,18 @@ J4. **[IJDSN 2017]** "An Effective and Efficient Hierarchical K-means Clustering
 ## 📚 2016   
 
 
-C4. **[IDEAL 2016]** "MR-Swarm: Mining Swarms from Big Spatio-Temporal Trajectories using MapReduce"  
+C4. **[IDEAL 2016]** <span style="color:rgb(0, 130, 196);">"**MR-Swarm: Mining Swarms from Big Spatio-Temporal Trajectories using MapReduce**"</span>    
    **Yanwei Yu***, Jianpeng Qi#, Yunhui Lu, Yonggang Zhang, Zhaowei Liu  
    *The 17th International Conference on Intelligent Data Engineering and Automated Learning*  
    [📄 PDF](https://link.springer.com/chapter/10.1007/978-3-319-46257-8_61) | [💻 Code](#) | [📑 Cite](#)  
 
 
-C3. **[SocialCom 2016]** "K\*-Means: An Effective and Efficient K-Means Clustering Algorithm"  
+C3. **[SocialCom 2016]** <span style="color:rgb(0, 130, 196);">"**K\*-Means: An Effective and Efficient K-Means Clustering Algorithm**"</span>    
    Jianpeng Qi#, **Yanwei Yu***, Lihong Wang, Jinglei Liu  
    *IEEE International Conference on Social Computing and Networking*  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/7723700/) | [💻 Code](#) | [📑 Cite](#)       
 
-J3. **[PRAI 2016]** "Continuous K-Nearest Neighbor Queries for Uncertain Moving Objects"  
+J3. **[PRAI 2016]** <span style="color:rgb(0, 130, 196);">"**Continuous K-Nearest Neighbor Queries for Uncertain Moving Objects**"</span>    
    **Yanwei Yu***, Jianpeng Qi#, Peng Song, Yonggang Zhang  
    *Pattern Recognition and Artificial Intelligence*, (**CCF B** Chinese Journal)  
    [📄 PDF](https://www.cqvip.com/qk/93758x/201611/670788271.html) | [💻 Code](#) | [📑 Cite](#)       
@@ -425,13 +425,13 @@ J3. **[PRAI 2016]** "Continuous K-Nearest Neighbor Queries for Uncertain Moving 
 
 ## 📚 2015   
 
-J2. **[JOS 2015]** "Density-based cluster structure mining algorithm for high-volume data streams"  
+J2. **[JOS 2015]** <span style="color:rgb(0, 130, 196);">"**Density-based cluster structure mining algorithm for high-volume data streams**"</span>    
    **Yanwei Yu**, Huan Wang, Qin Wang, Jindong Zhao  
    *Ruan Jian Xue Bao/Journal of Software*, (**CCF A** Chinese Journal)  
    [📄 PDF](https://jos.org.cn/jos/article/abstract/4717?st=article_issue) | [💻 Code](#) | [📑 Cite](#)       
 
 
-J1. **[IJDSN 2015]** "Cludoop: An Efficient Distributed Density-based Clustering for Big Data using Hadoop"  
+J1. **[IJDSN 2015]** <span style="color:rgb(0, 130, 196);">"**Cludoop: An Efficient Distributed Density-based Clustering for Big Data using Hadoop**"</span>    
    **Yanwei Yu***, Jindong Zhao, Xiaodong Wang, Qin Wang and Yonggang Zhang  
    *International Journal of Distributed Sensor Networks*  
    [📄 PDF](https://journals.sagepub.com/doi/full/10.1155/2015/579391) | [💻 Code](#) | [📑 Cite](#)       
@@ -440,14 +440,14 @@ J1. **[IJDSN 2015]** "Cludoop: An Efficient Distributed Density-based Clustering
 ## 📚 2014   
 
 
-C2. **[KDD 2014]** "Detecting Moving Object Outliers in Massive-Scale Trajectory Streams"  
+C2. **[KDD 2014]** <span style="color:rgb(0, 130, 196);">"**Detecting Moving Object Outliers in Massive-Scale Trajectory Streams**"</span>    
    **Yanwei Yu**, Lei Cao, Elke Rundensteiner, Qin Wang  
    *20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=151/1036=14.6%)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/2623330.2623735) | [💻 Code](#) | [📑 Cite](#)  
 
 
-C1. **[ICDE 2014]** "Scalable Distance-Based Outlier Detection over High-Volume Data Streams"  
+C1. **[ICDE 2014]** <span style="color:rgb(0, 130, 196);">"**Scalable Distance-Based Outlier Detection over High-Volume Data Streams**"</span>    
    Lei Cao, Di Yang, Qingyang Wang, **Yanwei Yu**, Jiayuan Wang, Elke Rundensteiner  
    *2014 IEEE 30th International Conference on Data Engineering*  
    (**CCF A**, acceptance rate=89/446=20%)  
