@@ -8,12 +8,12 @@ banner:
 
 ## 📚 2025
 
-J35. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
+J36. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
    *GeoInformatica*, (**CCF B**)       
    [📄 PDF](https://link.springer.com/article/10.1007/s10707-025-00549-9) | [💻 Code](#) | [📑 Cite](#)
 
-J34. **[KBS 2025]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for motif prediction**"</span>      
+J35. **[KBS 2025]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for motif prediction**"</span>      
    Wen Yang#, Xiang Li#, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, **Yanwei Yu***     
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
@@ -36,7 +36,7 @@ C36. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**Non-collective Ca
    (**CCF A**, acceptance rate=1042/5404=19.3%)        
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J32. **[VLDBJ 2025]** <span style="color:rgb(0, 130, 196);">"**Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs**"</span>       
+J34. **[VLDBJ 2025]** <span style="color:rgb(0, 130, 196);">"**Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs**"</span>       
    Zhihao Zhang#, Jianpeng Qi*, Lei Cao, Junyu Dong, **Yanwei Yu***       
    *The VLDB Jounral*, (**CCF A**)             
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
