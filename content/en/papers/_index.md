@@ -39,7 +39,7 @@ J31. **[软件学报]** "面向节点分类的多层异质图神经网络"
 C35. **[ICDE 2025]** "UMGAD: Unsupervised Multiplex Graph Anomaly Detection"  
    Xiang Li#, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, **Yanwei Yu***  
    *Proceedings of 41th IEEE International Conference on Data Engineering*  
-   (**CCF A**, acceptance rate=\*\*\/\*\*\*\*\=\*\*%)  
+   (**CCF A**, acceptance rate=300/1465=20.5%)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 J30. **[TKDE 2025]** "Dual-Channel Multiplex Graph Neural Networks for Recommendation"  
@@ -74,7 +74,7 @@ C31. **[AAAI 2025]** "Lightweight yet Fine-grained: A Graph Capsule Convolutiona
 C30. **[ICDE 2025]** "Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration"  
    Hong Xia#, Xiao Zhang#, Yuan Cao, Lei Cao, **Yanwei Yu***, Junyu Dong  
    *Proceedings of 41th IEEE International Conference on Data Engineering*  
-   (**CCF A**, acceptance rate=\*\*\/\*\*\*\*\=\*\*%)  
+   (**CCF A**, acceptance rate=300/1465=20.5%)   
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 
