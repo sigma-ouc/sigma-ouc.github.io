@@ -8,7 +8,7 @@ banner:
 
 ## 📚 2025
 
-J33. **[GeoInformatica 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
+J33. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$MA^2Traj$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
    *GeoInformatica*, (**中科院1区Top期刊**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
