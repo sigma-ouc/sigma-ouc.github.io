@@ -151,67 +151,67 @@ J27. **[TKDD 2024]** <span style="color:rgb(0, 130, 196);">"**Trajectory-User Li
 
 ## 📚 2023
 
-C24. **[ISKE 2023]** "DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation"  
+C24. **[ISKE 2023]** <span style="color:rgb(0, 130, 196);">"**DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation**"</span>    
    Binyu Tan, Junrui Shi, Bin Wang, **Yanwei Yu**, Feng Hong, Tianrui Li  
    *Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering*  
    (Best Student Paper Reward)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C23. **[ISKE 2023]** "ST-MoE: Spatio-temporal Mixture of Experts for Multivariate Time Series Forecasting"  
+C23. **[ISKE 2023]** <span style="color:rgb(0, 130, 196);">"**ST-MoE: Spatio-temporal Mixture of Experts for Multivariate Time Series Forecasting**"</span>    
    Hanwen Liu, Yibing Zhang, Ximeng Wang, Bin Wang, **Yanwei Yu**  
    *Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering*   
    (Best Student Paper Reward)    
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C22. **[CIKM 2023]** "Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank"  
+C22. **[CIKM 2023]** <span style="color:rgb(0, 130, 196);">"**Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank**"</span>    
    Zhanyu Liu, Guanjie Zheng, **Yanwei Yu**  
    *Proceedings of the 32nd ACM International Conference on Information and Knowledge Management*  
    (**CCF B**, acceptance rate=354/1472=24%)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3583780.3614829) | [💻 Code](https://github.com/zhyliu00/TPB) | [📑 Cite](#)
 
-C21. **[KDD 2023]** "Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling"  
+C21. **[KDD 2023]** <span style="color:rgb(0, 130, 196);">"**Multiplex Heterogeneous Graph Neural Network with Behavior Pattern Modeling**"</span>    
    Chaofan Fu#, Guanjie Zheng, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=313/1416=22.1%)  
    [📄 PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599441) | [💻 Code](https://github.com/FuChF/BPHGNN-23) | [📑 Cite](#)
 
-J26. **[KBS 2023]** "Robust Anomaly Detection for Multivariate Time Series through Temporal GCNs and Attention-based VAE"  
+J26. **[KBS 2023]** <span style="color:rgb(0, 130, 196);">"**Robust Anomaly Detection for Multivariate Time Series through Temporal GCNs and Attention-based VAE**"</span>    
    Yunfei Shi#, Bin Wang, **Yanwei Yu***, Xianfeng Tang, Chao Huang, Junyu Dong  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0950705123004756) | [💻 Code](#) | [📑 Cite](#)
 
-J25. **[FGCS 2023]** "Self-Supervised Contrastive Representation Learning for Large-Scale Trajectories"  
+J25. **[FGCS 2023]** <span style="color:rgb(0, 130, 196);">"**Self-Supervised Contrastive Representation Learning for Large-Scale Trajectories**"</span>    
    Shuzhe Li#, Wei Chen#, Bingqi Yan#, Zhen Li#, **Yanwei Yu***  
    *Future Generation Computer Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0167739X23002376) | [💻 Code](#) | [📑 Cite](#)
 
-J24. **[KBS 2023]** "Structural regularization based discriminative multi-view unsupervised feature selection"  
+J24. **[KBS 2023]** <span style="color:rgb(0, 130, 196);">"**Structural regularization based discriminative multi-view unsupervised feature selection**"</span>    
    Shixuan Zhou, Peng Song, **Yanwei Yu**, Wenming Zheng  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J23. **[ESWA 2023]** "Session-based recommendation with hypergraph convolutional networks and sequential information embeddings"  
+J23. **[ESWA 2023]** <span style="color:rgb(0, 130, 196);">"**Session-based recommendation with hypergraph convolutional networks and sequential information embeddings**"</span>    
    Chengxin Ding, Zhongying Zhao, Chao Li, **Yanwei Yu**, Qingtian Zeng  
    *Expert Systems with Applications 223*, (JCR Q1, **CCF C**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J22. **[ESWA 2023]** "OSGNN: Original graph and Subgraph aggregated Graph Neural Network"  
+J22. **[ESWA 2023]** <span style="color:rgb(0, 130, 196);">"**OSGNN: Original graph and Subgraph aggregated Graph Neural Network**"</span>    
    Yeyu Yan, Chao Li, **Yanwei Yu**, Xiangju Li, Zhongying Zhao  
    *Expert Systems with Applications 225*, (JCR Q1, **CCF C**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-C20. **[AAAI 2023]** "Graph Structure Learning on User Mobility Data for Social Relationship Inference"  
+C20. **[AAAI 2023]** <span style="color:rgb(0, 130, 196);">"**Graph Structure Learning on User Mobility Data for Social Relationship Inference**"</span>    
    Guangming Qin#, Lexue Song#, **Yanwei Yu***, Chao Huang, Wenzhe Jia, Yuan Cao, Junyu Dong  
    *Proceedings of Thirty-Seventh AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=1721/8777=19.6%)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J21. **[WWWJ 2023]** "PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction"  
+J21. **[WWWJ 2023]** <span style="color:rgb(0, 130, 196);">"**PreCLN: Pretrained-based contrastive learning network for vehicle trajectory prediction**"</span>    
    Bingqi Yan#, Geng Zhao, Lexue Song#, **Yanwei Yu***, Junyu Dong  
    *World Wide Web Journal*, (**CCF B**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J20. **[TKDD 2023]** "Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference"  
+J20. **[TKDD 2023]** <span style="color:rgb(0, 130, 196);">"**Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference**"</span>    
    Shaojie Dai#, Jinshuai Wang#, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *ACM Transactions on Knowledge Discovery from Data*, (**CCF B**)  
    [📄 PDF](#) | [💻 Code](https://github.com/dsj96/TKDD) | [📑 Cite](#)
@@ -219,36 +219,36 @@ J20. **[TKDD 2023]** "Dynamic Multi-View Graph Neural Networks for Citywide Traf
 
 ## 📚 2022
 
-J19. **[KBS 2022]** "Heterogeneous Graph Neural Network for Attribute Completion"  
+J19. **[KBS 2022]** <span style="color:rgb(0, 130, 196);">"**Heterogeneous Graph Neural Network for Attribute Completion**"</span>    
    Kai Wang#, **Yanwei Yu***, Chao Huang, Zhongying Zhao, Junyu Dong  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](#) | [💻 Code](https://github.com/Code-husky/AC-HEN) | [📑 Cite](#)
 
-C19. **[KDD 2022]** "Multiplex Heterogeneous Graph Convolutional Network"  
+C19. **[KDD 2022]** <span style="color:rgb(0, 130, 196);">"**Multiplex Heterogeneous Graph Convolutional Network**"</span>    
    Pengyang Yu#, Chaofan Fu#, **Yanwei Yu***, Chao Huang, Zhongying Zhao, Junyu Dong  
    *Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=254/1695=15%)  
    [📄 PDF](#) | [💻 Code](https://github.com/NSSSJSS/MHGCN) | [📑 Cite](#)
 
-C18. **[KDD 2022]** "Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation"  
+C18. **[KDD 2022]** <span style="color:rgb(0, 130, 196);">"**Multi-Behavior Hypergraph-Enhanced Transformer for Next-Item Recommendation**"</span>    
    Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, **Yanwei Yu**, Chenliang Li  
    *Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=254/1695=15%)  
    [📄 PDF](#) | [💻 Code](https://github.com/Onedean/MainTUL) | [📑 Cite](#)
 
-C17. **[IJCAI 2022]** "Mutual Distillation Learning Network for Trajectory-User Linking"  
+C17. **[IJCAI 2022]** <span style="color:rgb(0, 130, 196);">"**Mutual Distillation Learning Network for Trajectory-User Linking**"</span>    
    Wei Chen#, Shuzhe Li#, Chao Huang, **Yanwei Yu***, Yongguo Jiang, Junyu Dong  
    *Proceedings of the 31st International Joint Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=681/4535=15%)  
    [📄 PDF](#) | [💻 Code](https://github.com/Onedean/MainTUL) | [📑 Cite](#)
 
-C16. **[ICDE 2022]** "Scalable Motif Counting for Large-scale Temporal Graphs"  
+C16. **[ICDE 2022]** <span style="color:rgb(0, 130, 196);">"**Scalable Motif Counting for Large-scale Temporal Graphs**"</span>    
    Zhongqiang Gao#, Chuanqi Cheng#, **Yanwei Yu***, Lei Cao, Chao Huang, Junyu Dong  
    *Proceedings of 38th IEEE International Conference on Data Engineering*  
    (**CCF A**, acceptance rate=211/780=27.1%)  
    [📄 PDF](#) | [💻 Code](https://github.com/steven-ccq/FAST-temporal-motif) | [📑 Cite](#)
 
-J18. **[DSE 2022]** "Spatio-Temporal Representation Learning with Social Tie for Personalized POI Recommendation"  
+J18. **[DSE 2022]** <span style="color:rgb(0, 130, 196);">"**Spatio-Temporal Representation Learning with Social Tie for Personalized POI Recommendation**"</span>    
    Shaojie Dai#, **Yanwei Yu***, Hao Fan, and Junyu Dong  
    *Data Science and Engineering*, (**CCF C**)  
    [📄 PDF](#) | [💻 Code](https://www.anonymous.4open.science/r/DSE-1BEC) | [📑 Cite](#)
@@ -256,24 +256,24 @@ J18. **[DSE 2022]** "Spatio-Temporal Representation Learning with Social Tie for
 
 ## 📚 2021
 
-J17. **[TBD 2021]** "Citywide Traffic Volume Inference with Surveillance Camera Records"   
+J17. **[TBD 2021]** <span style="color:rgb(0, 130, 196);">"**Citywide Traffic Volume Inference with Surveillance Camera Records**"</span>    
    **Yanwei Yu***, Xianfeng Tang, Huaxiu Yao, Xiuwen Yi, Zhenhui Li   
    *IEEE Transactions on Big Data*, (**CCF C**)    
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/8798705) | [💻 Code](#) | [📑 Cite](#)   
 
-C15. **[ICDM 2021]** "Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference"  
+C15. **[ICDM 2021]** <span style="color:rgb(0, 130, 196);">"**Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference**"</span>    
    Shaojie Dai#, Jinshuai Wang#, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *Proceedings of 21st IEEE International Conference on Data Mining*  
    (**CCF B**, acceptance rate=198/990=20%)  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/9679045) | [💻 Code](#) | [📑 Cite](#)   
 
-C14. **[WWW 2021]** "Motif-Preserving Dynamic Attributed Network Embedding"  
+C14. **[WWW 2021]** <span style="color:rgb(0, 130, 196);">"**Motif-Preserving Dynamic Attributed Network Embedding**"</span>    
    Zhijun Liu#, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *Proceedings of the Web Conference*      
    (**CCF A**, acceptance rate=355/1736=20.4%)   
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3442381.3449821) | [💻 Code](https://github.com/ZhijunLiu95/MTSN) | [📑 Cite](#)      
 
-C13. **[DASFAA 2021]** "Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties"  
+C13. **[DASFAA 2021]** <span style="color:rgb(0, 130, 196);">"**Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties**"</span>    
    Shaojie Dai#, **Yanwei Yu***, Hao Fan, Junyu Dong  
    *The 26th International Conference on Database System for Advanced Applications*  
    (**CCF B**, acceptance rate=98/490=20%, 优秀论文)   
@@ -282,56 +282,56 @@ C13. **[DASFAA 2021]** "Personalized POI Recommendation: Spatio-Temporal Represe
 
 ## 📚 2020
 
-C12. **[CIKM 2020]** "Fast Attributed Multiplex Heterogeneous Network Embedding"  
+C12. **[CIKM 2020]** <span style="color:rgb(0, 130, 196);">"**Fast Attributed Multiplex Heterogeneous Network Embedding**"</span>    
    Zhijun Liu#, Chao Huang, **Yanwei Yu***, Baode Fan, Junyu Dong  
    *Proceedings of the 29th ACM International Conference on Information and Knowledge Management*  
    (**CCF B**, acceptance rate=194/970=20%)   
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3411944) | [💻 Code](https://github.com/ZhijunLiu95/FAME) | [📑 Cite](#)   
 
-C11. **[CIKM 2020]** "Dynamic Representation Learning for Large-Scale Attributed Networks"  
+C11. **[CIKM 2020]** <span style="color:rgb(0, 130, 196);">"**Dynamic Representation Learning for Large-Scale Attributed Networks**"</span>    
    Zhijun Liu#, Chao Huang, **Yanwei Yu***, Peng Song, Baode Fan, Junyu Dong  
    *Proceedings of the 29th ACM International Conference on Information and Knowledge Management*  
    (**CCF B**, acceptance rate=194/970=20%)  
    [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3340531.3411945) | [💻 Code](#) | [📑 Cite](#)   
 
-C10. **[PRCV 2020]** "Student Performance Prediction based on Multi-View Network Embedding"  
+C10. **[PRCV 2020]** <span style="color:rgb(0, 130, 196);">"**Student Performance Prediction based on Multi-View Network Embedding**"</span>    
    Jianian Li#, **Yanwei Yu***, Peng Song, Yunhong Lu  
    *3rd Chinese Conference on Pattern Recognition and Computer Vision*, (**CCF C**)  
    [📄 PDF](https://link.springer.com/chapter/10.1007/978-3-030-60636-7_11) | [💻 Code](#) | [📑 Cite](#)   
      
-J16. **[KBS 2020]** "Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams"  
+J16. **[KBS 2020]** <span style="color:rgb(0, 130, 196);">"**Scalable KDE-based Top-n Local Outlier Detection over Large-Scale Data Streams**"</span>    
    Fang Liu#, **Yanwei Yu***, Peng Song, Yangyang Fan, Xiangrong Tong  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0950705120304159) | [💻 Code](#) | [📑 Cite](#)   
 
-J15. **[TCDS 2020]** "Speech Emotion Recognition Based on Robust Discriminative Sparse Regression"  
+J15. **[TCDS 2020]** <span style="color:rgb(0, 130, 196);">"**Speech Emotion Recognition Based on Robust Discriminative Sparse Regression**"</span>    
    Peng Song, Wenming Zheng, **Yanwei Yu**, Shifeng Ou  
    *IEEE Transactions on Cognitive and Developmental Systems*  
    (In press)    
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/9080065) | [💻 Code](#) | [📑 Cite](#)    
 
-J14. **[KBS 2020]** "Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data"  
+J14. **[KBS 2020]** <span style="color:rgb(0, 130, 196);">"**Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data**"</span>    
    Kai Chen#,Yanwei Yu*, Peng Song, Xianfeng Tang, Lei Cao, Xiangrong Tong  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)    
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0950705120301702) | [💻 Code](#) | [📑 Cite](#)   
 
-J13. **[KBS 2020]** "Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection"  
+J13. **[KBS 2020]** <span style="color:rgb(0, 130, 196);">"**Layer-constrained Variational Autoencoding Kernel Density Estimation Model for Anomaly Detection**"</span>    
    Peng Lv#,Yanwei Yu*, Yangyang Fan, Xianfeng Tang, Xiangrong Tong  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0950705120301635) | [💻 Code](#) | [📑 Cite](#)   
 
-C9. **[DASFAA 2020]** "Anomaly Detection in High-dimensional Data Based on Autoregressive Flow"  
+C9. **[DASFAA 2020]** <span style="color:rgb(0, 130, 196);">"**Anomaly Detection in High-dimensional Data Based on Autoregressive Flow**"</span>    
    Yanwei Yu*, Peng Lv#, Xiangrong Tong, Junyu Dong  
    *25th International Conference on Database System for Advanced Applications*  
    (**CCF B**, acceptance rate=119/487=24.4%)    
    [📄 PDF](https://link.springer.com/chapter/10.1007/978-3-030-59416-9_8) | [💻 Code](#) | [📑 Cite](#)   
 
-J12. **[IS 2020]** "Shape-optimizing mesh warping method for stereoscopic panorama stitching"  
+J12. **[IS 2020]** <span style="color:rgb(0, 130, 196);">"**Shape-optimizing mesh warping method for stereoscopic panorama stitching**"</span>    
    Weiqing Yan, Guanghui Yue, Jindong Xu,Yanwei Yu, Kai Wang, Chang Tang, Xiangrong Tong  
    *Information Sciences*, (**CCF B**)  
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0020025519309077) | [💻 Code](#) | [📑 Cite](#)        
 
-J11. **[IEEE Access 2020]** "Ordering-Based Kalman Filter Selective Ensemble for Classification"  
+J11. **[IEEE Access 2020]** <span style="color:rgb(0, 130, 196);">"**Ordering-Based Kalman Filter Selective Ensemble for Classification**"</span>    
    Kai Yu#, Lihong Wang, **Yanwei Yu***  
    *IEEE Access*  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/8952637) | [💻 Code](#) | [📑 Cite](#)           
