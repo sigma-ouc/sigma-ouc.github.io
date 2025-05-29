@@ -1,5 +1,5 @@
 ---
-title: 图神经网络
+title: Graph Neural Networks
 date: 2024-07-28
 ---
 

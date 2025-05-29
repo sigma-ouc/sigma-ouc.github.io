@@ -1,5 +1,5 @@
 ---
-title: 图数据挖掘
+title: Graph Data Mining
 date: 2024-07-15
 ---
 
