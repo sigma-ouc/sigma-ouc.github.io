@@ -62,7 +62,7 @@ sections:
       text: |
         <br>
         <!-- 调小字体 -->
-        <p style="font-size: 0.91em;">  
+        <p style="font-size: 0.9em;">  
         The SIGMA Research Group, established under the Institute of Artificial Intelligence at Ocean University of China, specializes in cutting-edge research areas including data mining, machine learning, and database systems. With a particular focus on modeling novel problems and developing effective and scalable algorithms for large-scale real-world applications, including but not limited to intelligent transportation, urban computing, social computing, recommendation systems, and spatiotemporal systems.
         </p>  
   # - block: slider
