@@ -1,6 +1,6 @@
 ---
 title: Large-scale Pre-trained Model for Spatiotemporal Representation Learning
-date: 2024-01-02
+date: 2024-01-01
 ---
 
 Funded by the Taishan Scholars Program of Shandong Province, China (No. Tsqn202312083), ￥750,000, 2024.01-2026.12
