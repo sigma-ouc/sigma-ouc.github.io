@@ -1,6 +1,6 @@
 ---
 title: Modeling, Forecasting and Policy Evaluation for Intelligent Transportation
-date: 2024-01-01
+date: 2024-01-02
 ---
 
 Funded by the Fundamental Research Funds for the Central Universities (No. 202442005), ￥1,000,000, 2024.01-2026.12
