@@ -8,11 +8,10 @@ banner:
 
 ## 📚 2025
 
-J33. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"$MA^2Traj$: Diffusion network with multi-attribute aggregation for trajectory generation"</span>     
+J33. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"MA^2^Traj: Diffusion network with multi-attribute aggregation for trajectory generation"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
    *GeoInformatica*, (**中科院1区Top期刊**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
-$MA^2Traj$
 
 C38. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting**"</span>     
    Han Yan#, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, **Yanwei Yu***   
