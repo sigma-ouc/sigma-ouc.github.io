@@ -8,9 +8,14 @@ banner:
 
 ## 📚 2025
 
-J33. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation"</span>     
+J35. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
-   *GeoInformatica*, (**中科院1区Top期刊**)       
+   *GeoInformatica*, (**CCF B**)       
+   [📄 PDF](https://link.springer.com/article/10.1007/s10707-025-00549-9) | [💻 Code](#) | [📑 Cite](#)
+
+J34. **[KBS 2025]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for motif prediction**"</span>      
+   Wen Yang#, Xiang Li#, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, **Yanwei Yu***     
+   *Knowledge-Based Systems*, (JCR Q1, **CCF C**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C38. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting**"</span>     
@@ -36,7 +41,7 @@ J32. **[VLDBJ 2025]** "Efficiently Counting Four-Node Motifs in Large-Scale Temp
    *The VLDB Jounral*, (**CCF A**)             
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J31. **[软件学报]** "面向节点分类的多层异质图神经网络"       
+J33. **[软件学报]** "面向节点分类的多层异质图神经网络"       
    于朋健#, 李享#, 齐建鹏, **于彦伟***, 董军宇       
    *软件学报*, (**CCF A**中文期刊)   
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
@@ -47,7 +52,7 @@ C35. **[ICDE 2025]** "UMGAD: Unsupervised Multiplex Graph Anomaly Detection"
    (**CCF A**, acceptance rate=300/1465=20.5%)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J30. **[TKDE 2025]** "Dual-Channel Multiplex Graph Neural Networks for Recommendation"  
+J32. **[TKDE 2025]** "Dual-Channel Multiplex Graph Neural Networks for Recommendation"  
    Xiang Li#, Chaofan Fu#, Zhongying Zhao, Guanjie Zheng, Chao Huang, **Yanwei Yu***, Junyu Dong  
    *IEEE Transactions on Knowledge and Data Engineering*, (**CCF A**)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
@@ -85,11 +90,21 @@ C30. **[ICDE 2025]** "Self-supervised Trajectory Representation Learning with Mu
 
 ## 📚 2024
 
+J31. **[GRL 2024]** <span style="color:rgb(0, 130, 196);">"**Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning**"</span>    
+   Lei Zhou, **Yanwei Yu**, Bingqi Yan, Xingyu Zhao#, Jianhuang Qin, Wei Tan, Youmin Tang, Xiaofeng Li, Xiaojing Li, Junyu Dong, Dake Chen, Raghu Murtugudde    
+   *Geophysical Research Letters*, (JCR Q1)    
+   [📄 PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL112308) | [💻 Code]() | [📑 Cite](#)   
+
+J30. **[TGRS 2024]** <span style="color:rgb(0, 130, 196);">"**Adaptive Spatio-Temporal Graph Recurrent Network for Sea Surface Temperature Forecasting**"</span>    
+   Xingyu Zhao#, Zhongyu Wang, Zhihao Zhang, Fangbo Lu, **Yanwei Yu**, Junyu Dong
+   *IEEE Transactions on Geoscience and Remote Sensing*, (JCR Q1)     
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10758730) | [💻 Code]() | [📑 Cite](#)   
+
 C29. **[KDD 2024]** "Dataset Condensation for Time Series Classification via Dual Domain Matching"  
    Zhanyu Liu, Ke Hao, Guanjie Zheng, **Yanwei Yu**  
    *Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*  
-   (**CCF A**, acceptance rate=409/2046=20%)  
-   [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671675) | [💻 Code](#) | [📑 Cite](#)
+   (**CCF A**, acceptance rate=409/2046=20%)   
+   [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3637528.3671675) | [💻 Code](#) | [📑 Cite](#)   
 
 C28. **[ECML/PKDD 2024]** "Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation"  
    Changsheng Shui#, Xiang Li#, Jianpeng Qi, Guiyuan Jiang, **Yanwei Yu***  
