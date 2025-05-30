@@ -56,7 +56,9 @@ sections:
   - block: hero
     content:
       title: |
+        <p style="font-size: 0.8em;">  
         SIGMA Group@OUC
+        </p>   
       image:
         filename: heying.jpg
       text: |
