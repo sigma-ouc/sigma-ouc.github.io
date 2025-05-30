@@ -27,7 +27,8 @@ sections:
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <img src="/images/project1.png" alt="Project1" style="max-width: 100%; height: auto;">
                 </td>
-              </tr>
+              </tr>     
+              <br>     
               <tr style="border: none; vertical-align: middle;">
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <strong style="font-size: 1.4em;">Large-scale Pre-trained Model for Spatiotemporal Representation Learning</strong><br>
@@ -39,7 +40,8 @@ sections:
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <img src="/images/project2.png" alt="project2" style="max-width: 100%; height: auto;">
                 </td>
-              </tr>
+              </tr>      
+              <br>                   
               <tr style="border: none; vertical-align: middle;">
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <strong style="font-size: 1.4em;">Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications</strong><br>
@@ -51,7 +53,8 @@ sections:
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <img src="/images/project3.png" alt="project3" style="max-width: 100%; height: auto;">
                 </td>
-              </tr>
+              </tr>      
+              <br>                   
               <tr style="border: none; vertical-align: middle;">
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <strong style="font-size: 1.4em;">Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data</strong><br>
@@ -63,7 +66,8 @@ sections:
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <img src="/images/project4.png" alt="project4" style="max-width: 100%; height: auto;">
                 </td>
-              </tr>
+              </tr>      
+              <br>     
               <tr style="border: none; vertical-align: middle;">
                 <td style="border: none; padding: 10px; vertical-align: middle;">
                   <strong style="font-size: 1.4em;">Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams</strong><br>
