@@ -89,7 +89,7 @@ My name is He Yiming. I am a master's student at the SIGMA Lab, Faculty of Infor
 </div>
 
 ### Publications
-<div style="font-size: 0.8em;"> <!-- 调小至原字体的90% -->
+<div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
 - **[IJCAI 2025]** "MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking".   
   **Yiming He#**, Xiang Li#, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*   
