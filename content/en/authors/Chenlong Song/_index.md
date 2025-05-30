@@ -26,7 +26,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+# interests:
   # - Recommendation System
   # - Computational Linguistics
   # - Information Retrieval
@@ -51,15 +51,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:songchenlong0218@outlook.com'
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://yuyanwei.github.io/index.html
+  - icon: cv
+    icon_pack: ai
+    link: https://songchenlong.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/songchenlong
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/songchenlong
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,6 @@ email: 'songchenlong0218@outlook.com'
 user_groups:
   - Doctoral Students
 ---
+
+### Personal Homepage
+https://songchenlong.github.io/
