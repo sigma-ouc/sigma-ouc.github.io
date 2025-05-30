@@ -13,7 +13,7 @@ sections:
         filename: heying.jpg
       text: |
         <br>
-        <p style="font-size: 0.95em;">  
+        <p style="font-size: 0.93em;">  
         SIGMA研究组依托于中国海洋大学人工智能研究院，专注于数据挖掘、机器学习、以及数据库系统等前沿领域研究，尤其关注于为大规模真实应用建模新问题并提出有效可扩展的算法，包括但不限于智能交通、城市计算、社交计算、推荐系统和时空系统。
         </p>    
 
