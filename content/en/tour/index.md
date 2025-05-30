@@ -12,26 +12,28 @@ sections:
       text: |
         <table style="border-collapse: collapse; width: 100%;">
             <colgroup>
-              <col style="width: 70%;">
-              <col style="width: 30%;">
+              <col style="width: 60%;">
+              <col style="width: 40%;">
             </colgroup>
             <tbody>
               <tr style="border: none;">
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <strong>智能校园导航系统</strong><br>
-                  该系统基于校园地图数据，利用路径规划算法为师生提供最短路径导航。支持多起点多终点选择，实时避开施工区域，并提供教学楼、图书馆等场所的详细信息查询。
+                  <strong>Modeling, Forecasting and Policy Evaluation for Intelligent Transportation</strong><br>
+                  Funded by the Fundamental Research Funds for the Central Universities (No. 202442005), ￥1,000,000, 2024.01-2026.12  <br>   
+                  This project aims to develop an intelligent traffic analytics framework through three integrated components: (1) mining spatiotemporal patterns of congestion propagation in road networks using big data to identify critical influencing factors and inter-road correlations; (2) constructing a graph neural network-based prediction system with multi-source data fusion for real-time traffic forecasting; (3) establishing a policy evaluation mechanism that assesses public transport performance across accessibility, reliability, and equity dimensions while quantifying policy impacts on congestion mitigation and efficiency improvement. The research will generate both predictive tools for traffic management and evidence-based policy recommendations for sustainable urban mobility. 
                 </td>
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <img src="https://picsum.photos/seed/campusnav/400/200" alt="智能校园导航系统界面示意图" style="max-width: 100%; height: auto;">
+                  <img src="/images/project1.png" alt="Project1" style="max-width: 100%; height: auto;">
                 </td>
               </tr>
               <tr style="border: none;">
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <strong>基于机器学习的垃圾分类助手</strong><br>
-                  通过计算机视觉技术识别垃圾类型，帮助用户准确分类。系统包含图像识别模型和分类知识库，支持常见生活垃圾的智能识别，并提供分类建议和环保知识科普。
+                  <strong>Large-scale Pre-trained Model for Spatiotemporal Representation Learning</strong><br>
+                  Funded by the Taishan Scholars Program of Shandong Province, China (No. Tsqn202312083), ￥750,000, 2024.01-2026.12  <br>
+                  This project initiative aims to develop an innovative pre-trained spatiotemporal representation learning model to address three critical applications of spatiotemporal data mining: (1) traffic flow prediction in intelligent transportation systems, (2) location recommendation in location-based social networks (LBSN), and (3) hydrological forecasting in marine science. The project will focus on establishing an effective deep learning framework based on large-scale pre-trained models for spatiotemporal representation learning, while systematically investigating and validating the model's effectiveness across these diverse application domains. 
                 </td>
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <img src="https://picsum.photos/seed/garbage/400/200" alt="垃圾分类助手应用截图" style="max-width: 100%; height: auto;">
+                  <img src="/images/project2.png" alt="project2" style="max-width: 100%; height: auto;">
                 </td>
               </tr>
               <tr style="border: none;">
