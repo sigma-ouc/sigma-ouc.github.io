@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Time Series Prediction
+# interests:
+#   - Time Series Prediction
   # - Information Retrieval
 
 # education:
@@ -49,16 +49,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yhan@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,3 +73,27 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+I am currently a master's student at Ocean University of China, supervised by Prof. Yanwei Yu. I earned my B.Eng. degree from Qingdao University in 2022. My research focuses on multivariate time series forecasting.    
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- multivariate time series forecasting
+
+</div>
+
+
+### Publications
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+**[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting**"</span>   
+**Han Yan#**, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, Yanwei Yu*     
+Proceedings of the 34th International Joint Conference on Artificial Intelligence    
+(**CCF A**, acceptance rate=1042/5404=19.3%)    
+
+</div>

@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Sequence Recommendation
+# interests:
+#   - Sequence Recommendation
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://yuyanwei.github.io/index.html
+    link: 'mailto:liuyuchen1092@stu.ouc.edu.cn'
+  - icon: cv
+    icon_pack: ai
+    link: https://lyyccccccc.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,17 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. My current research interests focus on sequential recommendation, aiming to improve the accuracy and practicality of recommender systems when dealing with user behavior sequences.
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- sequential recommendation
+
+</div>
+

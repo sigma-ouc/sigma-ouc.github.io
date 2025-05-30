@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Traffic Prediction
+# interests:
+#   - Traffic Prediction
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:caolingxiao@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,28 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+I was born in Puyang, Henan province. I completed my bachelor's degree at Zhengzhou University and am currently pursuing my master's degree at Ocean University of China. My research focuses on spatiotemporal data mining, especially on traffic forecasting.   
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- spatiotemporal data mining
+
+</div>
+
+
+### Publications
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+**[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting**"</span>       
+Lingxiao Cao#, Bin Wang, Guiyuan Jiang, **Yanwei Yu***, Junyu Dong   
+*Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*   
+(**CCF A**, acceptance rate=3032/12957=23.4%, Oral)   
+
+</div>
+
