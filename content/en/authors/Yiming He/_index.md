@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Dynamic Graph Representation Learning
+# interests:
+#   - Dynamic Graph Representation Learning
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:heyiming7773@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,26 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+My name is He Yiming. I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor's degree at Ocean University of China, where I am currently pursuing my master's degree. My research focuses on dynamic graph neural network representation learning.
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- dynamic graph neural network representation learning
+
+</div>
+
+### Publications
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+**[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking**"</span>       
+Yiming He#, Xiang Li#, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*   
+*Proceedings of the 34th International Joint Conference on Artificial Intelligence*    
+(**CCF A**, acceptance rate=1042/5404=19.3%)  
+
+</div>
