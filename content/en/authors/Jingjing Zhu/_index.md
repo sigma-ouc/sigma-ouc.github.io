@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Traffic/spatiotemporal Prediction
+# interests:
+#   - Traffic/spatiotemporal Prediction
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:zhujingjing@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,17 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+I am a master's student at Ocean University of China under the supervision of Professor Yu Yanwei. Prior to this, I earned my Bachelor's degree in Software Engineering from the School of Information Science and Technology at Qingdao University of Science and Technology in 2024. My research focuses on social relationship inference.
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- social relationship inference
+
+</div>
+

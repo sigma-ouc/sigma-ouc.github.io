@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Recommendation system
+# interests:
+#   - Recommendation system
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:chenyingjie@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,18 @@ social:
 user_groups:
   - Master Students
 ---
+
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+My name is Yingjie Chen, and I’m originally from Zibo, a vibrant city in Shandong Province. After completing my undergraduate degree at Qingdao University, I took the next step in my academic journey by enrolling in the Master’s program at Ocean University of China in 2024. I’m currently in my first year, where I’m specializing in rating and review-based recommendation systems—a research area that deeply interests me. I’m excited to dive deeper into this field and explore its potential applications.
+
+</div>
+
+### Interests
+<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+
+- rating and review-based recommendation systems
+
+</div>
+
+

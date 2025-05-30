@@ -90,12 +90,12 @@ I was born in Puyang, Henan province. I completed my bachelor's degree at Zhengz
 
 
 ### Publications
-<div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
+<div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
-**[AAAI 2025]** <span style="color:rgb(0, 130, 196);">"**Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting**"</span>       
-Lingxiao Cao#, Bin Wang, Guiyuan Jiang, **Yanwei Yu***, Junyu Dong   
-*Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*   
-(**CCF A**, acceptance rate=3032/12957=23.4%, Oral)   
+- **[AAAI 2025]** "Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting"      
+  Lingxiao Cao#, Bin Wang, Guiyuan Jiang, Yanwei Yu*, Junyu Dong   
+  *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*   
+  (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)   
 
 </div>
 
