@@ -12,8 +12,8 @@ sections:
       text: |
         <table style="border-collapse: collapse; width: 80%; margin: 0 auto;">
             <colgroup>
-              <col style="width: 50%;">
-              <col style="width: 30%;">
+              <col style="width: 58%;">
+              <col style="width: 22%;">
             </colgroup>
             <tbody>
               <tr style="border: none; vertical-align: middle;">
