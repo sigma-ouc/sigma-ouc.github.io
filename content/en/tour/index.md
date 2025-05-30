@@ -10,10 +10,10 @@ sections:
       title: Projects
       subtitle:
       text: |
-        <table style="border-collapse: collapse; width: 100%;">
+        <table style="border-collapse: collapse; width: 80%;">
             <colgroup>
-              <col style="width: 60%;">
-              <col style="width: 40%;">
+              <col style="width: 50%;">
+              <col style="width: 30%;">
             </colgroup>
             <tbody>
               <tr style="border: none;">
@@ -38,22 +38,34 @@ sections:
               </tr>
               <tr style="border: none;">
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <strong>社区健康管理平台</strong><br>
-                  整合居民健康档案、体检数据和在线问诊功能，为社区居民提供便捷的健康管理服务。支持医生在线答疑、健康提醒和慢性病管理，提升社区医疗服务效率。
+                  <strong>Representation Learning for Large-Scale Complex Spatiotemporal Data and Its Applications</strong><br>
+                  Funded by NSFC (No. 62176243), ￥739,000, 2022.01-2025.12<br>     
+                  This project plans to conduct an in-depth study on representation learning for large-scale spatiotemporal data and its applications. First, we will build an effective representation learning framework with the exploration of spatiotemporal data from different dimensions. Then, we target at five different real-world applications for our evaluation of spatial-temporal representation learning frameworks, i.e., trajectory-user linking, trajectory prediction, location recommendation, relationship inference, and trajectory anomaly detection. Specifically, we will design customized deep learning models for these applications within their unique spatial-temporal context. 
                 </td>
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <img src="https://picsum.photos/seed/health/400/200" alt="社区健康管理平台界面" style="max-width: 100%; height: auto;">
+                  <img src="/images/project3.png" alt="project3" style="max-width: 100%; height: auto;">
                 </td>
               </tr>
               <tr style="border: none;">
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <strong>智能农业监测系统</strong><br>
-                  利用物联网技术实时监测土壤湿度、光照强度和温度等环境参数，结合作物生长模型提供精准灌溉和施肥建议。帮助农户提高生产效率，降低资源浪费。
+                  <strong>Semantic Annotation and Semantic Pattern Mining for Trajectory Big Data</strong><br>
+                  Funded by NSFC (No. 61773331), ￥768,000, 2018.01-2021.12<br>     
+                  This project selects spatiotemporal trajectory big data as the research object, and conducts in-depth research on the semantic-integrated trajectory data pattern mining and anomaly detection technologies. For mobility relationship inference integrating semantic features, this project proposes a friend relationship inference model based on graph embedding, which introduces semantics such as POI categories into meeting events, effectively improving the inference performance of friend relationship. For important location inference based on traffic big data, this project proposes an accurate home location and work area inference method, which realizes the annotation of important locations on sparse vehicle trajectories. For traffic inference based on traffic big data, this project completed a series of studies on citywide traffic volume inference, from spatiotemporal semi-supervised model to traffic simulator model, and to spatiotemporal representation learning model, achieving the state-of-the-art performance. For high-efficiency anomaly detection, this project proposes a fast Top-n local anomaly detection algorithm. Aiming at the problem of local anomaly detection in streaming big data environment, a Top-n local outlier detection method based on kernel density estimation is designed, which realizes efficient and effective Top-n local outlier detection in streaming big data. For the anomaly detection of high-dimensional data, this project proposes a layer-constrained variational auto-encoding kernel density estimation model and an autoregressive flow-based anomaly detection model.
                 </td>
                 <td style="border: none; padding: 10px; vertical-align: top;">
-                  <img src="https://picsum.photos/seed/agriculture/400/200" alt="智能农业监测系统传感器部署" style="max-width: 100%; height: auto;">
+                  <img src="/images/project4.png" alt="project4" style="max-width: 100%; height: auto;">
                 </td>
               </tr>
+              <tr style="border: none;">
+                <td style="border: none; padding: 10px; vertical-align: top;">
+                  <strong>Distributed Anomalous Event Detection over Big Spatio-Temporal Data Streams</strong><br>
+                  Funded by NSFC (No. 61403328), ￥250,000, 2015.01-2027.12  <br>     
+                  This project has carried on the thorough research of distributed outlier detection and trajectory pattern mining for spatiotemporal trajectory big data. First, we proposed a class of novel neighbor-based trajectory stream outlier model, which takes the different semantics of spatiotemporal neighbors and effectively captures various anomalous events in different scenarios. Second, we completed a series of efficient clustering algorithms and density-based clustering for streaming big data, and implemented the evolving clustering analysis in spatiotemporal data streams. Third, we designed a load-balanced data partition method in distributed stream processing system for spatiotemporal big data. Finally, we also completed the mining of trajectory group patterns based on cluttering for high-volume trajectory streams, and further realized the parallel algorithm design for distributed spatiotemporal trajectory pattern mining.   
+                </td>
+                <td style="border: none; padding: 10px; vertical-align: top;">
+                  <img src="/images/project5.png" alt="project5" style="max-width: 100%; height: auto;">
+                </td>
+              </tr>              
             </tbody>
           </table>
 
