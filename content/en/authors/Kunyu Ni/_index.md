@@ -26,8 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - AI For Data Prepare
+# interests:
+#   - AI For Data Prepare
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://yuyanwei.github.io/index.html
+    link: 'mailto:kyni.ouc@gmail.com'
+  - icon: cv
+    icon_pack: ai
+    link: https://kunyuni.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,10 +67,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kyni.ouc@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Doctoral Students
 ---
+
+### Personal Homepage
+https://kunyuni.github.io/
