@@ -25,7 +25,7 @@ sections:
                   </span>     
                 </td>
                 <td style="border: none; padding: 10px; vertical-align: middle;">
-                  <img src="/images/project1.png" alt="Project1" style="max-width: 100%; height: auto;">
+                  <img src="/images/project1.jpeg" alt="Project1" style="max-width: 100%; height: auto;">
                 </td>
               </tr>     
               <tr style="border: none; vertical-align: middle;">
