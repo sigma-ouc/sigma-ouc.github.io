@@ -10,10 +10,10 @@ sections:
       title: Projects
       subtitle:
       text: |
-        <table style="border-collapse: collapse; width: 80%; margin: 0 auto;">
+        <table style="border-collapse: collapse; width: 90%; margin: 0 auto;">
             <colgroup>
-              <col style="width: 58%;">
-              <col style="width: 22%;">
+              <col style="width: 60%;">
+              <col style="width: 30%;">
             </colgroup>
             <tbody>
               <tr style="border: none; vertical-align: middle;">
