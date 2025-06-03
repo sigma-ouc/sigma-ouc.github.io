@@ -84,7 +84,7 @@ sections:
       title:
       subtitle:
       text: |
-        <div style="width: 50%; overflow: hidden;">
+        <div style="width: 30%; margin: 0 auto; overflow: hidden;">
           <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QJLp3xQ-w7019B5p3jHJSpwxfsmjIoKGPvyGMIRtuXU&cl=ffffff&w=a"></script>
         </div>
 ---
