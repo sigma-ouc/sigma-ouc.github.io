@@ -50,16 +50,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://yuyanwei.github.io/index.html
+    link: 'mailto:test@songchenlong0218@outlook.com'
+  - icon: cv
+    icon_pack: ai
+    link: https://songchenlong.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/songchenlong
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/songchenlong
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,3 +74,6 @@ email: 'songchenlong0218@outlook.com'
 user_groups:
   - 博士生
 ---
+
+### 个人主页
+https://songchenlong.github.io/
