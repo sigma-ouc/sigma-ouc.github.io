@@ -8,12 +8,12 @@ banner:
 
 ## 📚 2025
 
-J36. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion network with multi-attribute aggregation for trajectory generation**"</span>     
+J36. **[GEOINFORMATICA 2025]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion Network with Multi-attribute Aggregation for Trajectory Generation**"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
    *GeoInformatica*, (**CCF B**)       
    [📄 PDF](https://link.springer.com/article/10.1007/s10707-025-00549-9) | [💻 Code](#) | [📑 Cite](#)
 
-J35. **[KBS 2025]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for motif prediction**"</span>      
+J35. **[KBS 2025]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structure-aware Graph Neural Network for Motif Prediction**"</span>      
    Wen Yang#, Xiang Li#, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, **Yanwei Yu***     
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
@@ -96,7 +96,7 @@ J31. **[GRL 2024]** <span style="color:rgb(0, 130, 196);">"**Skillful prediction
    [📄 PDF](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL112308) | [💻 Code]() | [📑 Cite](#)   
 
 J30. **[TGRS 2024]** <span style="color:rgb(0, 130, 196);">"**Adaptive Spatio-Temporal Graph Recurrent Network for Sea Surface Temperature Forecasting**"</span>    
-   Xingyu Zhao#, Zhongyu Wang, Zhihao Zhang, Fangbo Lu, **Yanwei Yu**, Junyu Dong
+   Xingyu Zhao#, Zhongyu Wang, Zhihao Zhang, Fangbo Lu, **Yanwei Yu***, Junyu Dong      
    *IEEE Transactions on Geoscience and Remote Sensing*, (JCR Q1)     
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/10758730) | [💻 Code]() | [📑 Cite](#)   
 

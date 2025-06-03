@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Supervisors
           - Postdoctor
-          - Doctoral Students
+          - PhD Students
           - Master Students
       sort_by: Params.index
       sort_ascending: true

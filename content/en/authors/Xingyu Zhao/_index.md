@@ -16,7 +16,7 @@ superuser: false
 index: "Phd2401"
 
 # Role/position
-role: Doctoral students in 2024
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,7 @@ email: 'zhaoxingyu@stu.ouc.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Doctoral Students
+  - PhD Students
 ---
 
 ### Personal Homepage

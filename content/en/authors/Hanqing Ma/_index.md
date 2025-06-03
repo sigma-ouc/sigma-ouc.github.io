@@ -16,7 +16,7 @@ superuser: false
 index: "Master2403"
 
 # Role/position
-role: 2024 Master's students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
