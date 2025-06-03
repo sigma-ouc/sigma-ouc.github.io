@@ -161,4 +161,11 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1' # Choose how many columns the section has. Valid values: '1' or '2'.
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QJLp3xQ-w7019B5p3jHJSpwxfsmjIoKGPvyGMIRtuXU&cl=ffffff&w=a"></script>
 ---

@@ -78,4 +78,11 @@ sections:
         {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QJLp3xQ-w7019B5p3jHJSpwxfsmjIoKGPvyGMIRtuXU&cl=ffffff&w=a"></script>
 ---
