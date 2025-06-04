@@ -75,10 +75,5 @@ user_groups:
   - PhD Students
 ---
 
-<head>
-  <!-- 5 秒后自动跳转（数值可修改，单位：秒；0 为立即跳转） -->
-  <meta http-equiv="refresh" content="0; url=https://songchenlong.github.io/">
-</head>
-
 ### Personal Homepage
 https://songchenlong.github.io/
