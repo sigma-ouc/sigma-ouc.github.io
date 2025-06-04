@@ -74,7 +74,12 @@ email: 'lixiang1202@stu.ouc.edu.cn'
 user_groups:
   - PhD Students
 ---
-
+<script>
+// 页面解析完成后立即执行跳转（无需等待资源加载）
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://lx970414.github.io/'); // 替换为你的目标 URL
+});
+</script>
 
 ### Personal Homepage
 https://lx970414.github.io/
