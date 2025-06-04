@@ -74,6 +74,17 @@ email: 'linbosen@stu.ouc.edu.cn'
 user_groups:
   - PhD Students
 ---
+<button id="redirectBtn" style="display: none;">跳转</button>
+<script>
+// 方法 1：页面加载后立即自动跳转（无需用户操作）
+window.onload = function() {
+  window.location.href = "https://catchacat083.github.io/"; // 替换为你的目标链接
+};
 
+// 方法 2：点击元素时触发跳转（需保留上述按钮并取消隐藏）
+// document.getElementById("redirectBtn").addEventListener("click", function() {
+//   window.location.href = "https://kunyuni.github.io/";
+// });
+</script>
 ### Personal Homepage
 https://catchacat083.github.io/
