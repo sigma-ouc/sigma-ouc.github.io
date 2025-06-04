@@ -16,7 +16,7 @@ superuser: false
 index: "Phd2401"
 
 # Role/position
-role: PhD Student
+role: PhD Student in 2024
 
 # Organizations/Affiliations
 organizations:

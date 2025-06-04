@@ -16,7 +16,7 @@ superuser: false
 index: "Phd2502"
 
 # Role/position
-role: PhD Student
+role: PhD Student in 2025
 
 # Organizations/Affiliations
 organizations:
@@ -74,6 +74,11 @@ email: 'songchenlong0218@outlook.com'
 user_groups:
   - PhD Students
 ---
+
+<head>
+  <!-- 5 秒后自动跳转（数值可修改，单位：秒；0 为立即跳转） -->
+  <meta http-equiv="refresh" content="0; url=https://songchenlong.github.io/">
+</head>
 
 ### Personal Homepage
 https://songchenlong.github.io/
