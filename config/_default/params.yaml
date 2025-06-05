@@ -125,3 +125,8 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+
+# 自定义配置
+custom_css: []
+custom_js: []
