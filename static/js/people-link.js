@@ -7,12 +7,12 @@ document.addEventListener('DOMContentLoaded', function() {
         'Jianpeng Qi': 'https://qijianpeng.github.io/',
         'Bosen Lin': 'https://catchacat083.github.io/',
         'Kunyu Ni': 'https://kunyuni.github.io/',
-        'chenlong-song': 'https://songchenlong.github.io/'
+        'Chenlong Song': 'https://songchenlong.github.io/'
         // 可根据需要添加更多用户信息
     };
 
-    // 假设用户姓名元素是 <a> 标签，类名为 'person-name'，可根据实际情况修改
-    const personNames = document.querySelectorAll('.person-name');
+    // 选择所有包含用户姓名的 <a> 标签
+    const personNames = document.querySelectorAll('a');
 
     personNames.forEach(function(nameElement) {
         const personName = nameElement.textContent.trim();
