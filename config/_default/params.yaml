@@ -129,4 +129,5 @@ publications:
 
 # 自定义配置
 custom_css: []
-custom_js: []
+custom_js:
+  - js/people-link.js 
