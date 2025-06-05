@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'Jianpeng Qi': 'https://qijianpeng.github.io/',
         'Bosen Lin': 'https://catchacat083.github.io/',
         'Kunyu Ni': 'https://kunyuni.github.io/',
-        'Chenlong Song': 'https://songchenlong.github.io/'
+        'chenlong-song': 'https://songchenlong.github.io/'
         // 可根据需要添加更多用户信息
     };
 
