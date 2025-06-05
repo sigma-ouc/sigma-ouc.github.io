@@ -75,5 +75,15 @@ user_groups:
   - PhD Students
 ---
 
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://lion1a.github.io/">
+<link rel="prefetch" href="https://lion1a.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://lion1a.github.io/');
+});
+</script>
+
 ### Personal Homepage
 https://lion1a.github.io/

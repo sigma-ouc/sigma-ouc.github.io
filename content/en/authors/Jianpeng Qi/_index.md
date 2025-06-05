@@ -75,5 +75,15 @@ user_groups:
   - Postdoctor
 ---
 
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://qijianpeng.github.io/">
+<link rel="prefetch" href="https://qijianpeng.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://qijianpeng.github.io/');
+});
+</script>
+
 ### Personal Homepage
 https://qijianpeng.github.io/

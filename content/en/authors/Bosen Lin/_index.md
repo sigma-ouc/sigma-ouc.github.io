@@ -75,5 +75,15 @@ user_groups:
   - PhD Students
 ---
 
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://catchacat083.github.io/">
+<link rel="prefetch" href="https://catchacat083.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://catchacat083.github.io/');
+});
+</script>
+
 ### Personal Homepage
 https://catchacat083.github.io/

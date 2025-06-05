@@ -76,5 +76,15 @@ user_groups:
   - Postdoctor
 ---
 
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://cdl1102.github.io/cdl.github.io/">
+<link rel="prefetch" href="https://cdl1102.github.io/cdl.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://cdl1102.github.io/cdl.github.io/');
+});
+</script>
+
 ### Personal Homepage
 https://cdl1102.github.io/cdl.github.io/
