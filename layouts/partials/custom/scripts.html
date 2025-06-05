@@ -1,2 +1,3 @@
-{{/* 自定义脚本 - 放在所有默认脚本之后 */}}
-<script src="/js/people-link.js"></script>
+{{/* 使用 Hugo 资源管道处理脚本 */}}
+{{ $script := resources.Get "js/people-link.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $script.RelPermalink }}"></script>
