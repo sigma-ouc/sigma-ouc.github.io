@@ -75,5 +75,15 @@ user_groups:
   - PhD Students
 ---
 
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://songchenlong.github.io/">
+<link rel="prefetch" href="https://songchenlong.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://songchenlong.github.io/');
+});
+</script>
+
 ### Personal Homepage
 https://songchenlong.github.io/

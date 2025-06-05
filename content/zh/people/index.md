@@ -73,4 +73,3 @@ sections:
         | 2022    |  李建涛  |  青岛中海潮科技有限公司                      |                   |             
 ---
 
-<script src="/js/people-link.js"></script>
