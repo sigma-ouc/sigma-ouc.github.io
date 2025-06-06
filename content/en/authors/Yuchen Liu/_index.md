@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. My current research interests focus on sequential recommendation, aiming to improve the accuracy and practicality of recommender systems when dealing with user behavior sequences.
+I am a master\'s student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. My current research interests focus on sequential recommendation, aiming to improve the accuracy and practicality of recommender systems when dealing with user behavior sequences.
 
 </div>
 
