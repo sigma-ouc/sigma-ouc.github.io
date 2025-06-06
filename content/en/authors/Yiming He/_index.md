@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is He Yiming. I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor's degree at Ocean University of China, where I am currently pursuing my master's degree. My research focuses on dynamic graph neural network representation learning.
+My name is He Yiming. I am a master\'s student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor\'s degree at Ocean University of China, where I am currently pursuing my master\'s degree. My research focuses on dynamic graph neural network representation learning.
 
 </div>
 
@@ -91,7 +91,7 @@ My name is He Yiming. I am a master's student at the SIGMA Lab, Faculty of Infor
 ### Publications
 <div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
-- **[IJCAI 2025]** "MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking".   
+- **[IJCAI 2025]** \"MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking\"    
   **Yiming He#**, Xiang Li#, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*   
   *Proceedings of the 34th International Joint Conference on Artificial Intelligence*    
   (**CCF A**, acceptance rate=1042/5404=19.3%)  

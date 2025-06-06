@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I was born in Xinxiang, Henan Province. I completed my undergraduate education at Zhengzhou University of Light Industry and subsequently commenced my graduate studies at Ocean University of China in 2024. Presently, I am in the initial year of my master’s program, and my research is dedicated to the field of sea surface temperature prediction.
+I was born in Xinxiang, Henan Province. I completed my undergraduate education at Zhengzhou University of Light Industry and subsequently commenced my graduate studies at Ocean University of China in 2024. Presently, I am in the initial year of my master\'s program, and my research is dedicated to the field of sea surface temperature prediction.
 
 </div>
 

@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Xia Hong. I completed my bachelor's degree and am currently pursuing my master's degree at Ocean University of China. My research focuses on spatiotemporal data mining, especially trajectory representation learning.  
+My name is Xia Hong. I completed my bachelor\'s degree and am currently pursuing my master\'s degree at Ocean University of China. My research focuses on spatiotemporal data mining, especially trajectory representation learning.  
 
 </div>
 
@@ -92,7 +92,7 @@ My name is Xia Hong. I completed my bachelor's degree and am currently pursuing 
 ### Publications
 <div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
-- **[ICDE 2025]** "Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration"       
+- **[ICDE 2025]** \"Self-supervised Trajectory Representation Learning with Multi-scale Spatio-temporal Feature Exploration\"       
   **Hong Xia#**, Xiao Zhang#, Yuan Cao, Lei Cao, Yanwei Yu*, Junyu Dong  
   *Proceedings of 41th IEEE International Conference on Data Engineering*  
   (**CCF A**, acceptance rate=300/1465=20.5%)   

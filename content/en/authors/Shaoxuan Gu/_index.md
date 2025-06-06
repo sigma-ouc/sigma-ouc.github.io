@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Gu Shaoxuan, from Tianjin. I studied for my undergraduate degree at Nanjing University of Technology and started pursuing a master's degree at Ocean University of China in 2024. Currently, I am a first-year master's student and my research direction is trajectory representation learning.
+My name is Gu Shaoxuan, from Tianjin. I studied for my undergraduate degree at Nanjing University of Technology and started pursuing a master\'s degree at Ocean University of China in 2024. Currently, I am a first-year master\'s student and my research direction is trajectory representation learning.
 
 </div>
 

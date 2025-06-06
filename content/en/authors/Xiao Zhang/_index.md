@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I’m a graduate student in the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, under the supervision of Professor Yanwei Yu. My current research interests focus on trajectory similarity computation, with an emphasis on exploring the application of diffusion models in this domain.
+I\'m a graduate student in the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, under the supervision of Professor Yanwei Yu. My current research interests focus on trajectory similarity computation, with an emphasis on exploring the application of diffusion models in this domain.
 
 </div>
 

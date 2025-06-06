@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I was born in Zhengzhou, Henan Province.I am currently pursuing my Master's degree in computer science at Ocean University of China, with a focus on AI for data preparation.
+I was born in Zhengzhou, Henan Province.I am currently pursuing my Master\'s degree in computer science at Ocean University of China, with a focus on AI for data preparation.
 
 </div>
 

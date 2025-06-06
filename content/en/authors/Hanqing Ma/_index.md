@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Hanqing Ma, and I am originally from Weifang, Shandong Province. I completed my undergraduate studies at Ocean University of China, where I also began my graduate studies in 2024. I am currently a first-year Master's student, with my research focusing on user identity linkage.
+My name is Hanqing Ma, and I am originally from Weifang, Shandong Province. I completed my undergraduate studies at Ocean University of China, where I also began my graduate studies in 2024. I am currently a first-year Master\'s student, with my research focusing on user identity linkage.
 
 </div>
 

@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at Ocean University of China under the supervision of Professor Yu Yanwei. Prior to this, I earned my Bachelor's degree in Software Engineering from the School of Information Science and Technology at Qingdao University of Science and Technology in 2024. My research focuses on social relationship inference.
+I am a master\'s student at Ocean University of China under the supervision of Professor Yu Yanwei. Prior to this, I earned my Bachelor\'s degree in Software Engineering from the School of Information Science and Technology at Qingdao University of Science and Technology in 2024. My research focuses on social relationship inference.
 
 </div>
 

@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I was born in Linyi, Shandong Province. I completed my undergraduate studies at Qingdao University and began my graduate studies at Ocean University of China in 2024. I am currently in my first year of the Master's program, and my research focuses on multi-behavior recommendation.
+I was born in Linyi, Shandong Province. I completed my undergraduate studies at Qingdao University and began my graduate studies at Ocean University of China in 2024. I am currently in my first year of the Master\'s program, and my research focuses on multi-behavior recommendation.
 
 </div>
 

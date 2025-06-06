@@ -76,7 +76,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am currently a master's student at Ocean University of China, supervised by Prof. Yanwei Yu. I earned my B.Eng. degree from Qingdao University in 2022. My research focuses on multivariate time series forecasting.    
+I am currently a master\'s student at Ocean University of China, supervised by Prof. Yanwei Yu. I earned my B.Eng. degree from Qingdao University in 2022. My research focuses on multivariate time series forecasting.    
 
 </div>
 
@@ -91,7 +91,7 @@ I am currently a master's student at Ocean University of China, supervised by Pr
 ### Publications
 <div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
-- **[IJCAI 2025]** "DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting"     
+- **[IJCAI 2025]** \"DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting\"     
   **Han Yan#**, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, Yanwei Yu*     
   Proceedings of the 34th International Joint Conference on Artificial Intelligence    
   (**CCF A**, acceptance rate=1042/5404=19.3%)    

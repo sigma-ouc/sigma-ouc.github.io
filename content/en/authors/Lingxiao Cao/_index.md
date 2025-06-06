@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I was born in Puyang, Henan province. I completed my bachelor's degree at Zhengzhou University and am currently pursuing my master's degree at Ocean University of China. My research focuses on spatiotemporal data mining, especially on traffic forecasting.   
+I was born in Puyang, Henan province. I completed my bachelor\'s degree at Zhengzhou University and am currently pursuing my master\'s degree at Ocean University of China. My research focuses on spatiotemporal data mining, especially on traffic forecasting.   
 
 </div>
 
@@ -92,7 +92,7 @@ I was born in Puyang, Henan province. I completed my bachelor's degree at Zhengz
 ### Publications
 <div style="font-size: 0.83em;"> <!-- 调小至原字体的90% -->
 
-- **[AAAI 2025]** "Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting"      
+- **[AAAI 2025]** \"Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting\"      
   Lingxiao Cao#, Bin Wang, Guiyuan Jiang, Yanwei Yu*, Junyu Dong   
   *Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence*   
   (**CCF A**, acceptance rate=3032/12957=23.4%, Oral)   

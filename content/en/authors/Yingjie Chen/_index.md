@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Yingjie Chen, and I’m originally from Zibo, a vibrant city in Shandong Province. After completing my undergraduate degree at Qingdao University, I took the next step in my academic journey by enrolling in the Master’s program at Ocean University of China in 2024. I’m currently in my first year, where I’m specializing in rating and review-based recommendation systems—a research area that deeply interests me. I’m excited to dive deeper into this field and explore its potential applications.
+My name is Yingjie Chen, and I\'m originally from Zibo, a vibrant city in Shandong Province. After completing my undergraduate degree at Qingdao University, I took the next step in my academic journey by enrolling in the Master\'s program at Ocean University of China in 2024. I\'m currently in my first year, where I\'m specializing in rating and review-based recommendation systems—a research area that deeply interests me. I\'m excited to dive deeper into this field and explore its potential applications.
 
 </div>
 
