@@ -18,7 +18,14 @@ J35. **[KBS]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structu
 
 <span style="color:rgb(255, 0, 0);">**[2025/04/29] Congratulations to Bin Wang as the first author for having the paper "Non-collective Calibrating Strategy for Time Series Forecasting" accepted by IJCAI 2025!**</span> 🎉🎉🎉     
 
+<span style="color:rgb(0, 130, 196);">**[2025/04/29] Congratulations to Bin Wang as the first author for having the paper \"Non-collective Calibrating Strategy for Time Series Forecasting\" accepted by IJCAI 2025!**</span> 🎉🎉🎉     
+
+<span style="color:rgb(255, 0, 0);">**[2025/04/29] Congratulations to Bin Wang as the first author for having the paper <span style="color:rgb(255, 0, 0);">"</span>Non-collective Calibrating Strategy for Time Series Forecasting<span style="color:rgb(0, 130, 196);">"</span> accepted by IJCAI 2025!**</span> 🎉🎉🎉     
+
+<span style="color:rgb(255, 0, 0);">**[2025/04/29] Congratulations to Bin Wang as the first author for having the paper** "**Non-collective Calibrating Strategy for Time Series Forecasting**" **accepted by IJCAI 2025!**</span> 🎉🎉🎉     
 
 **[2025/04/29] Congratulations to Han Yan as the first author for having the paper "DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting" accepted by IJCAI 2025!** 🎉🎉🎉  
 
-[2025/04/29] Congratulations to Han Yan as the first author for having the paper "DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting"* accepted by IJCAI 2025! 🎉🎉🎉
+[2025/04/29] Congratulations to Han Yan as the first author for having the paper \"DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting\" accepted by IJCAI 2025! 🎉🎉🎉
+
+
