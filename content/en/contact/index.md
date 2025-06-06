@@ -16,8 +16,8 @@ sections:
             <i class="fa fa-envelope mr-2"></i>E-mails
           </div>
           <div class="card-body">
-            <p class="card-text">You can contact us via email at: </p>
-            <p class="card-text"><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a>  </p>
+            <p class="card-text">You can contact us via email at: <br>
+            <i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a>  </p>
           </div>
         </div>
         <!-- 地址卡片 -->

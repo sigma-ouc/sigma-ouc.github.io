@@ -16,8 +16,8 @@ sections:
             <i class="fa fa-envelope mr-2"></i>电子邮件
           </div>
           <div class="card-body">
-            <p class="card-text">您可以通过电子邮件与我们联系： </p>
-            <p class="card-text"><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a></p>
+            <p class="card-text">您可以通过电子邮件与我们联系： <br>
+            <i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a></p>
           </div>
         </div>
         <!-- 地址卡片 -->
