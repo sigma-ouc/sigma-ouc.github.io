@@ -37,25 +37,6 @@ sections:
   #     view: list
   #     columns: '1'  
 
-  - block: collection
-    content:
-      title: 近期动态
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: list-title-only  # 使用自定义视图
-      columns: '1'
-
   # - block: markdown
   #   content:
   #     title:

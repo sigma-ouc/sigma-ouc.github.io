@@ -95,24 +95,24 @@ sections:
       view: showcase
       columns: "1"
 
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: list
-      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Latest News
+  #     subtitle:
+  #     text:
+  #     count: 3
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       exclude_featured: false
+  #       publication_type: ''
+  #       tag: ''
+  #     offset: 0
+  #     order: desc
+  #     page_type: post
+  #   design:
+  #     view: list
+  #     columns: '1'
   
   # - block: markdown
   #   content:
