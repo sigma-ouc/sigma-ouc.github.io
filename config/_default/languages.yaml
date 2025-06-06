@@ -18,7 +18,7 @@ zh:
  menu:
    main:
     - name: 近期动态
-      url: post
+      url: news
       weight: 10  
     - name: 团队成员
       url: people

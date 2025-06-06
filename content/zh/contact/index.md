@@ -17,9 +17,7 @@ sections:
           </div>
           <div class="card-body">
             <p class="card-text">您可以通过电子邮件与我们联系： </p>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item"><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a></li>
-            </ul>
+            <p class="card-text"><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:yuyanwei@ouc.edu.cn">yuyanwei@ouc.edu.cn</a></p>
           </div>
         </div>
         <!-- 地址卡片 -->
@@ -30,7 +28,7 @@ sections:
           <div class="card-body">
             <!-- 文字描述的地址 -->
             <div class="mb-4">
-              <p class="font-weight-bold">中国海洋大学西海岸校区信息楼南楼A329</p>
+              <p class="font-weight-bold">中国海洋大学西海岸校区信息楼南楼B308/310</p>
             </div>
           </div>
         </div>
