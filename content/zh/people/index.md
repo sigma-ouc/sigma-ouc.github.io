@@ -36,8 +36,8 @@ sections:
             <col style="width: 8%;">
             <col style="width: 9%;">
             <col style="width: 40%;">
-            <col style="width: 28%;">
-            <col style="width: 15%;">
+            <col style="width: 26%;">
+            <col style="width: 17%;">
           </colgroup>
           <thead>
             <tr style="border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
