@@ -171,7 +171,7 @@ sections:
           <div class="row">
             <div class="col-md-4">
               <h5 class="text-muted" style="font-size: 0.95rem;">LINK</h5>
-              <ul class="list-unstyled" style="font-size: 0.9rem;">
+              <ul class="list-unstyled" style="font-size: 0.85rem;">
                 <li><a href="https://www.ai-ouc.cn/" target="_blank">Institute of Artificial Intelligence</a></li>
                 <li><a href="https://it.ouc.edu.cn/" target="_blank">Faculty of Information Science and Engineering</a></li>
               </ul>
