@@ -200,7 +200,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">2021</td>
               <td style="border: none; padding: 0.75rem;">秦广明</td>
               <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），AAAI（一作，CCF A）</td>
-              <td style="border: none; padding: 0.75rem;">北京理工大学火箭与飞行器制造学院 副院长助理</td>
+              <td style="border: none; padding: 0.75rem;">北京理工大学计算机学院博士在读</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
