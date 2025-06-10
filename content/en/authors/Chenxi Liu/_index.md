@@ -79,6 +79,7 @@ user_groups:
 
 My name is Chenxi Liu. I was born in Dezhou, Shandong Province. I completed my undergraduate studies at Hainan University and began my graduate studies at Ocean University of China in 2023. I am currently in my second year of the Master's program, and my research focuses on spatiotemporal trajectory anomaly detection.
 
+**Email**: 2374363919@qq.com
 </div>
 
 ### Interests

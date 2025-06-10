@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 My name is Hanqing Ma, and I am originally from Weifang, Shandong Province. I completed my undergraduate studies at Ocean University of China, where I also began my graduate studies in 2024. I am currently a first-year Master\'s student, with my research focusing on user identity linkage.
 
+**Email**: mahanqing@stu.ouc.edu.cn
 </div>
 
 ### Interests

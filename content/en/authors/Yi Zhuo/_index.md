@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I was born in Xinxiang, Henan Province. I completed my undergraduate education at Zhengzhou University of Light Industry and subsequently commenced my graduate studies at Ocean University of China in 2024. Presently, I am in the initial year of my master\'s program, and my research is dedicated to the field of sea surface temperature prediction.
 
+**Email**: zhuoyi@stu.ouc.edu.cn
 </div>
 
 ### Interests

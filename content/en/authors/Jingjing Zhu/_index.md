@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I am a master\'s student at Ocean University of China under the supervision of Professor Yu Yanwei. Prior to this, I earned my Bachelor\'s degree in Software Engineering from the School of Information Science and Technology at Qingdao University of Science and Technology in 2024. My research focuses on social relationship inference.
 
+**Email**: zhujingjing@stu.ouc.edu.cn
 </div>
 
 ### Interests

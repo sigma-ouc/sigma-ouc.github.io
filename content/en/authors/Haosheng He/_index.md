@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I am a postgraduate researcher in the SIGMA Lab, Faculty of Information Science and Engineering at Ocean University of China, working under the guidance of Professor Yanwei Yu. My academic interests center on optimizing the Age of Information (AoI), with a particular focus on applying reinforcement learning methodologies to support intelligent decision-making and enhance overall system efficiency.
 
+**Email**: hhs@stu.ouc.edu.cn
 </div>
 
 ### Interests

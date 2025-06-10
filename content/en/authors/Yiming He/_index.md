@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 My name is He Yiming. I am a master\'s student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor\'s degree at Ocean University of China, where I am currently pursuing my master\'s degree. My research focuses on dynamic graph neural network representation learning.
 
+**Email**: heyiming7773@stu.ouc.edu.cn
 </div>
 
 ### Interests

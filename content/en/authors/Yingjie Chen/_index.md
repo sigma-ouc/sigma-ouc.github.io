@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 My name is Yingjie Chen, and I\'m originally from Zibo, a vibrant city in Shandong Province. After completing my undergraduate degree at Qingdao University, I took the next step in my academic journey by enrolling in the Master\'s program at Ocean University of China in 2024. I\'m currently in my first year, where I\'m specializing in rating and review-based recommendation systems—a research area that deeply interests me. I\'m excited to dive deeper into this field and explore its potential applications.
 
+**Email**: chenyingjie@stu.ouc.edu.cn
 </div>
 
 ### Interests

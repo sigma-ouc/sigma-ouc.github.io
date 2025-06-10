@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I am a master\'s student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. My current research interests focus on sequential recommendation, aiming to improve the accuracy and practicality of recommender systems when dealing with user behavior sequences.
 
+**Email**: liuyuchen1092@stu.ouc.edu.cn
 </div>
 
 ### Interests

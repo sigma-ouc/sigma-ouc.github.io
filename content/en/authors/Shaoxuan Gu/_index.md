@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,5 +79,6 @@ user_groups:
 
 My name is Gu Shaoxuan, from Tianjin. I studied for my undergraduate degree at Nanjing University of Technology and started pursuing a master\'s degree at Ocean University of China in 2024. Currently, I am a first-year master\'s student and my research direction is trajectory representation learning.
 
+**Email**: gushaoxuan@stu.ouc.edu.cn
 </div>
 

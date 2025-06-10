@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I\'m a graduate student in the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, under the supervision of Professor Yanwei Yu. My current research interests focus on trajectory similarity computation, with an emphasis on exploring the application of diffusion models in this domain.
 
+**Email**: zhangxiao4549@stu.ouc.edu.cn
 </div>
 
 

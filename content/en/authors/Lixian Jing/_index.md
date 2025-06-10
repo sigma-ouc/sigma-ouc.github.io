@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'songchenlong0218@outlook.com'
+# email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,6 +79,7 @@ user_groups:
 
 I am currently a master\'s student at the School of Computer Science and Technology, Ocean University of China, under the supervision of Yanwei Yu. I obtained a Bachelor\'s degree in Geographic Information Science from Shandong Normal University in 2021.
 
+**Email**: jlx@stu.ouc.edu.cn
 </div>
 
 ### Interests
