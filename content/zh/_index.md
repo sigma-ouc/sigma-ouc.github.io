@@ -99,12 +99,11 @@ sections:
             <div class="col-md-4">
               <h5>友情链接</h5>
               <ul class="list-unstyled">
-                <li><a href="https://ai.ouc.edu.cn/" target="_blank">中国海洋大学人工智能研究院</a></li>
-                <li><a href="https://www.it.ouc.edu.cn/" target="_blank">中国海洋大学信息科学与工程学部</a></li>
+                <li><a href="https://www.ai-ouc.cn/" target="_blank">中国海洋大学人工智能研究院</a></li>
+                <li><a href="https://it.ouc.edu.cn/" target="_blank">中国海洋大学信息科学与工程学部</a></li>
               </ul>
             </div>
             <div class="col-md-4 text-center">
-              <h5>访问统计</h5>
               <div style="margin-top: 1rem;">
                 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QJLp3xQ-w7019B5p3jHJSpwxfsmjIoKGPvyGMIRtuXU&cl=ffffff&w=a"></script>
               </div>
