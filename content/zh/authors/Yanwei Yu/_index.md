@@ -77,7 +77,7 @@ user_groups:
 ### 个人简介
 <div style="font-size: 0.9em;"> <!-- 全局调小至原字体的90%，注意隔一行 -->
 
-中国海洋大学[信息科学与工程学部](https://it.ouc.edu.cn/)教授、博士生导师，泰山学者青年专家，中国海洋大学“青年英才工程”第一层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为[王沁教授](https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin)，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为[Prof. Zhenhui Jessie Li](https://faculty.ist.psu.edu/jessieli/Site/index.html)。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为数据挖掘、机器学习、分布式计算以及数据库系统。在TODS、TKDD、TBD、KDD、WWW、AAAI、IJCAI、UbiComp、ICDE、CIKM、DASFAA等国际期刊和会议上发表论文60余篇，其中中国计算机学会A/B类推荐会议/期刊、ACM/IEEE汇刊、中科院一区Top期刊40余篇、A类中文期刊4篇。主持国家自然科学基金项目3项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
+中国海洋大学[信息科学与工程学部](https://it.ouc.edu.cn/)教授、博士生导师，泰山学者青年专家，中国海洋大学“青年英才工程”第一层次入选者。博士毕业于北京科技大学计算机与通信工程学院，导师为[王沁教授](https://baike.baidu.com/item/%E7%8E%8B%E6%B2%81/2049219?fr=aladdin)，曾于2012年9月-2013年9月赴美国伍斯特理工学院(WPI)进行为期一年的博士联合培养，导师为[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)，2016年11月-2018年9月在美国宾夕法尼亚州立大学(PSU)从事博士后研究，合作导师为[Prof. Zhenhui Jessie Li](https://faculty.ist.psu.edu/jessieli/Site/index.html)。曾于2014年3月-2019年7月在烟台大学工作，2019年8月加入中国海洋大学。 主要研究方向为数据挖掘、机器学习、分布式计算以及数据库系统。在TODS、TKDD、TBD、KDD、WWW、AAAI、IJCAI、UbiComp、ICDE、CIKM、DASFAA等国际期刊和会议上发表论文100余篇，其中中国计算机学会A/B类推荐会议/期刊、ACM/IEEE汇刊、中科院一区Top期刊50余篇、A类中文期刊5篇。主持国家自然科学基金项目3项，参与多项国家自然科学基金、美国自然科学基金、山东省自然科学基金、山东省重点研发计划项目。
 
 </div>
 
