@@ -96,9 +96,9 @@ sections:
       text: |
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-4" style="font-size: 0.9rem;>
-              <h5>友情链接</h5>
-              <ul class="list-unstyled">
+            <div class="col-md-4">
+              <h5 class="text-muted" style="font-size: 0.95rem;">友情链接</h5>
+              <ul class="list-unstyled" style="font-size: 0.9rem;">
                 <li><a href="https://www.ai-ouc.cn/" target="_blank">中国海洋大学人工智能研究院</a></li>
                 <li><a href="https://it.ouc.edu.cn/" target="_blank">中国海洋大学信息科学与工程学部</a></li>
               </ul>
