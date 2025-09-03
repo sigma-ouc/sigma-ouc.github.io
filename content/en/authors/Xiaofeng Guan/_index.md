@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Shuo Lian
+title: Xiaofeng Guan
 
 # Full name (for SEO)
-first_name: Shuo
-last_name: Lian
+first_name: Xiaofeng
+last_name: Guan
 
 # Username (this should match the folder name)
 authors:
-  - Shuo Lian
+  - Xiaofeng Guan
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2501"
+index: "Master2504"
 
 # Role/position
 role: Master Student in 2025
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lianshuo@stu.ouc.edu.cn'
+    link: 'mailto:21250213194@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,15 +77,15 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Lian Shuo. I am from Heze, Shandong Province, a city renowned as the \"Peony Capital of China.\" After earning my Bachelor\'s degree in Electronic Information Engineering from Wuhan University of Technology, I enrolled in Ocean University of China in 2025 to pursue a Master’s degree. My research focuses on Graph Neural Networks, and I am still exploring more specific areas within this field.    
+My name is Guan Xiaofeng, and I am from Weifang, Shandong. I obtained my bachelor\'s degree in Data Science and Big Data Technology from the School of Computer Science and Technology at Qilu University of Technology in 2025. In 2025, I began pursuing my master's degree at Ocean University of China under the supervision of Professor Yu Yanwei.    
 
-**Email**: lianshuo@stu.ouc.edu.cn
+**Email**: 21250213194@stu.ouc.edu.cn    
 </div>
 
-### Interests
+<!-- ### Interests -->
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-- Graph Neural Networks
+- data mining
 
 </div>
 

@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Shuo Lian
+title: Junyu Pan
 
 # Full name (for SEO)
-first_name: Shuo
-last_name: Lian
+first_name: Junyu
+last_name: Pan
 
 # Username (this should match the folder name)
 authors:
-  - Shuo Lian
+  - Junyu Pan
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2501"
+index: "Master2503"
 
 # Role/position
 role: Master Student in 2025
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lianshuo@stu.ouc.edu.cn'
+    link: 'mailto:3142212856@qq.com'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,15 +77,15 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Lian Shuo. I am from Heze, Shandong Province, a city renowned as the \"Peony Capital of China.\" After earning my Bachelor\'s degree in Electronic Information Engineering from Wuhan University of Technology, I enrolled in Ocean University of China in 2025 to pursue a Master’s degree. My research focuses on Graph Neural Networks, and I am still exploring more specific areas within this field.    
+I am a master\'s student at Ocean University of China, under the guidance of Professor Yu Yanwei. I graduated from Qingdao University with my undergraduate degree. My current research focus is on trajectory direction.
 
-**Email**: lianshuo@stu.ouc.edu.cn
+**Email**: 3142212856@qq.com   
 </div>
 
-### Interests
+<!-- ### Interests -->
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-- Graph Neural Networks
+- trajectory direction
 
 </div>
 
