@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Guan Xiaofeng, and I am from Weifang, Shandong. I obtained my bachelor\'s degree in Data Science and Big Data Technology from the School of Computer Science and Technology at Qilu University of Technology in 2025. In 2025, I began pursuing my master's degree at Ocean University of China under the supervision of Professor Yu Yanwei.    
+My name is Guan Xiaofeng, and I am from Weifang, Shandong. I obtained my bachelor\'s degree in Data Science and Big Data Technology from the School of Computer Science and Technology at Qilu University of Technology in 2025. In 2025, I began pursuing my master\'s degree at Ocean University of China under the supervision of Professor Yu Yanwei.    
 
 **Email**: 21250213194@stu.ouc.edu.cn    
 </div>
