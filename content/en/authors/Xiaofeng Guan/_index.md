@@ -82,7 +82,7 @@ My name is Guan Xiaofeng, and I am from Weifang, Shandong. I obtained my bachelo
 **Email**: 21250213194@stu.ouc.edu.cn    
 </div>
 
-<!-- ### Interests -->
+### Interests
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
 - data mining
