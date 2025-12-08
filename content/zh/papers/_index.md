@@ -1,12 +1,49 @@
 ---
-title: 发表论文
+title: Publications
 view: citation
 banner:
   caption: ''
   image: ''
 ---
 
+\# Supervised students, * Corresponding author
+
 ## 📚 2025
+
+C43. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Automatic Channel Pruning by Searching with Structure Embedding for Hash Network**"</span>       
+   Zifan Liu, Yuan Cao*, Yifan Sun, **Yanwei Yu***, Heng Qi    
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
+   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C42. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy**"</span>       
+   Xiang Li#, Yuan Cao, Zhongying Zhao, Guoqing Chao, **Yanwei Yu***    
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
+   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C41. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**$\text{S}^2\text{HyRec}$: Self-Supervised Hypergraph Sequential Recommendation**"</span>       
+   Yuchen Liu#, Kunyu Ni#, Zhongying Zhao, Guoqing Chao, **Yanwei Yu***    
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
+   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C40. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**"</span>       
+   **Yanwei Yu***, Hong Xia#, Shaoxuan Gu#, Xingyu Zhao#, Dongliang Chen, Yuan Cao    
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
+   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C39. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**TrajAgg: Dual-Scale Feature Aggregation with Hybrid Training for Trajectory Similarity Computation in Free Space**"</span>       
+   Xiao Zhang#, Xingyu Zhao#, Yuan Cao, Bin Wang, Guiyuan Jiang, **Yanwei Yu***   
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
+   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+J37. **[TOIS]** <span style="color:rgb(0, 130, 196);">"**Multi-Channel Hypergraph Contrastive Learning for Matrix Completion**"</span>    
+   Xiang Li#, Changsheng Shui#, Zhongying Zhao, Junyu Dong, **Yanwei Yu***    
+   *ACM Transactions on Information Systems*, (**CCF A**)       
+   [📄 PDF](https://dl.acm.org/doi/abs/10.1145/3768319) | [💻 Code](#) | [📑 Cite](#)
 
 J36. **[GEOINFORMATICA]** <span style="color:rgb(0, 130, 196);">"**$\text{MA}^2\text{Traj}$: Diffusion Network with Multi-attribute Aggregation for Trajectory Generation**"</span>     
    Xingyu Zhao#, Xiao Zhang#, Bohan Zhang, Jianpeng Qi, Junyu Dong, **Yanwei Yu***     
