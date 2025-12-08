@@ -7,7 +7,22 @@ banner:
 ---
 
 <br>    
-    
+     
+<span style="color:rgb(255, 0, 0);">**[2025/11/08] 祝贺李享一作的论文“Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy”被CCF A类会议AAAI2026接收！**</span> 🎉🎉    
+<br>    
+      
+<span style="color:rgb(255, 0, 0);">**[2025/11/08] 祝贺刘雨辰一作的论文“S<sup>2</sup>HyRec: Self-Supervised Hypergraph Sequential Recommendation”被CCF A类会议AAAI2026接收！**</span> 🎉🎉    
+<br>    
+      
+<span style="color:rgb(255, 0, 0);">**[2025/11/08] 祝贺夏鸿共同一作的论文“Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning”被CCF A类会议AAAI2026接收！**</span> 🎉🎉    
+<br>    
+       
+<span style="color:rgb(255, 0, 0);">**[2025/11/08] 祝贺张潇一作的论文“TrajAgg: Dual-Scale Feature Aggregation with Hybrid Training for Trajectory Similarity Computation in Free Space”被CCF A类会议AAAI2026接收！**</span> 🎉🎉    
+<br>    
+         
+<span style="color:rgb(255, 0, 0);">**[2025/09/05] 祝贺李享和税常盛共同一作的论文“Multi-Channel Hypergraph Contrastive Learning for Matrix Completion”被CCF A类期刊TOIS接收！**</span> 🎉🎉    
+<br>    
+     
 <span style="color:rgb(255, 0, 0);">**[2025/04/29] 祝贺王斌一作的论文“Non-collective Calibrating Strategy for Time Series Forecasting”被CCF A类会议IJCAI2025接收！**</span> 🎉🎉    
 <br>    
      

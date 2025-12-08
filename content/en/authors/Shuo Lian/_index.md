@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Lian Shuo. I am from Heze, Shandong Province, a city renowned as the \"Peony Capital of China.\" After earning my Bachelor\'s degree in Electronic Information Engineering from Wuhan University of Technology, I enrolled in Ocean University of China in 2025 to pursue a Master\'s degree. My research focuses on Graph Neural Networks, and I am still exploring more specific areas within this field.    
+My name is Lian Shuo. I am from Heze, Shandong Province, a city renowned as the \"Peony Capital of China.\" After earning my Bachelor\'s degree in Electronic Information Engineering from Wuhan University of Technology, I enrolled in Ocean University of China in 2025 to pursue a Master\'s degree, supervised by Professor Yanwei Yu. My research focuses on Graph Neural Networks, and I am still exploring more specific areas within this field.    
 
 **Email**: lianshuo@stu.ouc.edu.cn
 </div>
