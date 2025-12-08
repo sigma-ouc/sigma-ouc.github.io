@@ -8,7 +8,7 @@ banner:
 
 \# Supervised students, * Corresponding author
 
-## 📚 2025
+## 📚 2026
 
 C43. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Automatic Channel Pruning by Searching with Structure Embedding for Hash Network**"</span>       
    Zifan Liu, Yuan Cao*, Yifan Sun, **Yanwei Yu***, Heng Qi    
@@ -39,6 +39,8 @@ C39. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**TrajAgg: Dual-Scal
    *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=4167/23680=17.6%)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+## 📚 2025
 
 J37. **[TOIS]** <span style="color:rgb(0, 130, 196);">"**Multi-Channel Hypergraph Contrastive Learning for Matrix Completion**"</span>    
    Xiang Li#, Changsheng Shui#, Zhongying Zhao, Junyu Dong, **Yanwei Yu***    
