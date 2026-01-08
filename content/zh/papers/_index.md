@@ -59,19 +59,19 @@ J35. **[KBS]** <span style="color:rgb(0, 130, 196);">"**Local High-order Structu
 
 C38. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting**"</span>     
    Han Yan#, Dongliang Chen, Guiyuan Jiang, Bin Wang, Lei Cao, Junyu Dong, **Yanwei Yu***   
-   *Proceeddings of the 34th International Joint Conference on Artificial Intelligence*      
+   *Proceedings of the 34th International Joint Conference on Artificial Intelligence*      
    (**CCF A**, acceptance rate=1042/5404=19.3%)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C37. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking**"</span>       
    Yiming He#, Xiang Li#, Zhongying Zhao, Haobing Liu, Peilan He, **Yanwei Yu***        
-   *Proceeddings of the 34th International Joint Conference on Artificial Intelligence*     
+   *Proceedings of the 34th International Joint Conference on Artificial Intelligence*     
    (**CCF A**, acceptance rate=1042/5404=19.3%)        
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C36. **[IJCAI 2025]** <span style="color:rgb(0, 130, 196);">"**Non-collective Calibrating Strategy for Time Series Forecasting**"</span>    
    Yongqi Han, Feng Hong, Minbo Ma, **Yanwei Yu***, Junbo Zhang, Tianrui Li, Bin Wang*       
-   *Proceeddings of the 34th International Joint Conference on Artificial Intelligence*     
+   *Proceedings of the 34th International Joint Conference on Artificial Intelligence*     
    (**CCF A**, acceptance rate=1042/5404=19.3%)        
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
@@ -165,7 +165,7 @@ C26. **[CIKM 2024]** <span style="color:rgb(0, 130, 196);">"**Hypergraph Hash Le
 
 C25. **[IJCAI 2024]** <span style="color:rgb(0, 130, 196);">"**Multi-Relational Graph Attention Network for Social Relationship Inference from Human Mobility Data**"</span>    
    Guangming Qin#, Jianpeng Qi#, Bin Wang, Guiyuan Jiang, **Yanwei Yu***, Junyu Dong  
-   *Proceeddings of the 33rd International Joint Conference on Artificial Intelligence*  
+   *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=791/5651=14%)  
    [📄 PDF](https://www.ijcai.org/proceedings/2024/0256.pdf) | [💻 Code](https://github.com/qinguangming1999/MRGAN_IJCAI) | [📑 Cite](#)
 
@@ -192,13 +192,13 @@ J27. **[TKDD]** <span style="color:rgb(0, 130, 196);">"**Trajectory-User Linking
 
 C24. **[ISKE 2023]** <span style="color:rgb(0, 130, 196);">"**DeepNWP4Wind: A Wind Forcasting Correction Solution in View of Multi-Criteria Evaluation**"</span>    
    Binyu Tan, Junrui Shi, Bin Wang, **Yanwei Yu**, Feng Hong, Tianrui Li  
-   *Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering*  
+   *Proceedings of the 18th International Conference on Intelligent System and Knowledge Engineering*  
    (Best Student Paper Reward)  
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C23. **[ISKE 2023]** <span style="color:rgb(0, 130, 196);">"**ST-MoE: Spatio-temporal Mixture of Experts for Multivariate Time Series Forecasting**"</span>    
    Hanwen Liu, Yibing Zhang, Ximeng Wang, Bin Wang, **Yanwei Yu**  
-   *Proceddings of the 18th International Conference on Intelligent System and Knowledge Engineering*   
+   *Proceedings of the 18th International Conference on Intelligent System and Knowledge Engineering*   
    (Best Student Paper Reward)    
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
