@@ -10,6 +10,48 @@ banner:
 
 ## 📚 2026
 
+J43. **[Information Fusion]** <span style="color:rgb(0, 130, 196);">"**ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation**"</span>        
+   Xingyu Zhao#, Jianpeng Qi, Bin Lu, Lei Zhou, Lei Cao, Junyu Dong, **Yanwei Yu***   
+   *Information Fusion*, (**JCR Q1**)    
+   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1566253525011467) | [💻 Code](#) | [📑 Cite](#)
+
+J42. **[IOT]** <span style="color:rgb(0, 130, 196);">"**Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints**"</span>       
+   **Yanwei Yu**, Haosheng He#, Chao Liu, Junyu Dong, Jianpeng Qi*     
+   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/document/11424561) | [💻 Code](#) | [📑 Cite](#)
+
+J41. **[IOT]** <span style="color:rgb(0, 130, 196);">"**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**"</span>       
+   Jianpeng Qi, Chao Liu, Chengxiang Xu, Rui Wang, Junyu Dong, **Yanwei Yu***   
+   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11396674) | [💻 Code](#) | [📑 Cite](#)
+
+J40. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Trajectory Similarity Hash Learning with Spatio-Temporal GRU**"</span>       
+   Yuan Cao, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, **Yanwei Yu***    
+   *IEEE Transactions on Big Data*, (**JCR Q2**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/document/11432961) | [💻 Code](#) | [📑 Cite](#)
+
+J39. **[Fundamental Research]** <span style="color:rgb(0, 130, 196);">"**Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values**"</span>       
+   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong  
+   *Fundamental Research*, (**JCR Q2**)    
+   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | [💻 Code](#) | [📑 Cite](#)
+
+J38. **[GeoInformatica]** <span style="color:rgb(0, 130, 196);">"**FlightDiff: a dual-constraint guided two-phase diffusion framework for accurate flight prediction**"</span>       
+   Peilan He, Zewei Zhang, **Yanwei Yu***, Guiyuan Jiang*, Feng Hong, Bin Wang    
+   *GeoInformatica*, (**CCF B**)    
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C45. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**Weighted Graph Clustering via Scale Contraction and Graph Structure Learning**"</span>       
+   Haobing Liu, Yinuo Zhang, Tingting Wang, Ruobing Jiang*, **Yanwei Yu***    
+   *Proceedings of the ACM Web Conference*  
+   (**CCF A**, acceptance rate=676/3370=20.1%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+C44. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**"</span>       
+   Xiang Li#, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, **Yanwei Yu***   
+   *Proceedings of the ACM Web Conference*  
+   (**CCF A**, acceptance rate=676/3370=20.1%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
 C43. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Automatic Channel Pruning by Searching with Structure Embedding for Hash Network**"</span>       
    Zifan Liu, Yuan Cao*, Yifan Sun, **Yanwei Yu***, Heng Qi    
    *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
