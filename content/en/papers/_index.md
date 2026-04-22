@@ -12,27 +12,27 @@ banner:
 
 J43. **[Information Fusion]** <span style="color:rgb(0, 130, 196);">"**ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation**"</span>        
    Xingyu Zhao#, Jianpeng Qi, Bin Lu, Lei Zhou, Lei Cao, Junyu Dong, **Yanwei Yu***   
-   *Information Fusion*, (**JCR Q1**)    
+   *Information Fusion*, (**JCR Q1**, **CAAI A**)    
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1566253525011467) | [💻 Code](#) | [📑 Cite](#)
 
-J42. **[IOT]** <span style="color:rgb(0, 130, 196);">"**Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints**"</span>       
+J42. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints**"</span>       
    **Yanwei Yu**, Haosheng He#, Chao Liu, Junyu Dong, Jianpeng Qi*     
    *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
    [📄 PDF](https://ieeexplore.ieee.org/document/11424561) | [💻 Code](#) | [📑 Cite](#)
 
-J41. **[IOT]** <span style="color:rgb(0, 130, 196);">"**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**"</span>       
+J41. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**"</span>       
    Jianpeng Qi, Chao Liu, Chengxiang Xu, Rui Wang, Junyu Dong, **Yanwei Yu***   
    *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11396674) | [💻 Code](#) | [📑 Cite](#)
 
 J40. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Trajectory Similarity Hash Learning with Spatio-Temporal GRU**"</span>       
    Yuan Cao, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, **Yanwei Yu***    
-   *IEEE Transactions on Big Data*, (**JCR Q2**, **CCF C**)    
+   *IEEE Transactions on Big Data*, (**JCR Q1**, **CCF C**)    
    [📄 PDF](https://ieeexplore.ieee.org/document/11432961) | [💻 Code](#) | [📑 Cite](#)
 
 J39. **[Fundamental Research]** <span style="color:rgb(0, 130, 196);">"**Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values**"</span>       
-   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong  
-   *Fundamental Research*, (**JCR Q2**)    
+   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong   
+   *Fundamental Research*, (**JCR Q1**)    
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | [💻 Code](#) | [📑 Cite](#)
 
 J38. **[GeoInformatica]** <span style="color:rgb(0, 130, 196);">"**FlightDiff: a dual-constraint guided two-phase diffusion framework for accurate flight prediction**"</span>       
