@@ -31,7 +31,7 @@ J40. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Trajectory Similarity Ha
    [📄 PDF](https://ieeexplore.ieee.org/document/11432961) | [💻 Code](#) | [📑 Cite](#)
 
 J39. **[Fundamental Research]** <span style="color:rgb(0, 130, 196);">"**Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values**"</span>       
-   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong  
+   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong   
    *Fundamental Research*, (**JCR Q1**)    
    [📄 PDF](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | [💻 Code](#) | [📑 Cite](#)
 
@@ -59,9 +59,9 @@ C43. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Automatic Channel 
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C42. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy**"</span>       
-   Xiang Li#, Yuan Cao, Zhongying Zhao, Guoqing Chao, **Yanwei Yu***    
-   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
-   (**CCF A**, acceptance rate=4167/23680=17.6%)  
+   Xiang Li#, Yuan Cao, Zhongying Zhao, Guoqing Chao, **Yanwei Yu***     
+   *Proceedings of the 40th AAAI Conference on Artificial Intelligence*   
+   (**CCF A**, acceptance rate=4167/23680=17.6%)   
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C41. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**$\text{S}^2\text{HyRec}$: Self-Supervised Hypergraph Sequential Recommendation**"</span>       
