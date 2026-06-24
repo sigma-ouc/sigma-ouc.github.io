@@ -10,34 +10,40 @@ banner:
 
 ## 📚 2026
 
-J43. **[Information Fusion]** <span style="color:rgb(0, 130, 196);">"**ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation**"</span>        
-   Xingyu Zhao#, Jianpeng Qi, Bin Lu, Lei Zhou, Lei Cao, Junyu Dong, **Yanwei Yu***   
-   *Information Fusion*, (**JCR Q1**, **CAAI A**)    
-   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1566253525011467) | [💻 Code](#) | [📑 Cite](#)
+C51. **[SIGMOD 2027]** <span style="color:rgb(0, 130, 196);">"**FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction**"</span>     
+   Kunyu Ni#, Lei Cao, Jie He, Xiaotong Zhang, Jianfeng Jin, Junyu Dong, **Yanwei Yu***   
+   *Proceedings of the ACM on Management of Data 2027*      
+   (**CCF A**, acceptance rate=XXX/XXXX=XX.X%)       
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J42. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints**"</span>       
-   **Yanwei Yu**, Haosheng He#, Chao Liu, Junyu Dong, Jianpeng Qi*     
-   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
-   [📄 PDF](https://ieeexplore.ieee.org/document/11424561) | [💻 Code](#) | [📑 Cite](#)
+C50. **[KDD 2026]** <span style="color:rgb(0, 130, 196);">"**Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology**"</span>     
+   Bin Wang, Shuo Lian#, Yuanyuan Hou, Dexian Wang, Peilan He, Feng Hong*, **Yanwei Yu***, Tianrui Li    
+   *Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*      
+   (**CCF A**, acceptance rate=243/790=30.8%)       
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J41. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**"</span>       
-   Jianpeng Qi, Chao Liu, Chengxiang Xu, Rui Wang, Junyu Dong, **Yanwei Yu***   
-   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
-   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11396674) | [💻 Code](#) | [📑 Cite](#)
+C49. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Towards Efficient and Effective Unimodal Trajectory Representation Learning: A Simple Yet Powerful Approach**"</span>     
+   Shaoxuan Gu#, Xingyu Zhao#, Dongliang Chen, Yuan Cao, **Yanwei Yu***   
+   *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
+   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J40. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Trajectory Similarity Hash Learning with Spatio-Temporal GRU**"</span>       
-   Yuan Cao, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, **Yanwei Yu***    
-   *IEEE Transactions on Big Data*, (**JCR Q1**, **CCF C**)    
-   [📄 PDF](https://ieeexplore.ieee.org/document/11432961) | [💻 Code](#) | [📑 Cite](#)
+C48. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference**"</span>     
+   Liangkun Chen#, Xiang Li#, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, **Yanwei Yu***   
+   *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
+   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J39. **[Fundamental Research]** <span style="color:rgb(0, 130, 196);">"**Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values**"</span>       
-   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong   
-   *Fundamental Research*, (**JCR Q1**)    
-   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | [💻 Code](#) | [📑 Cite](#)
+C47. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference**"</span>     
+   Jingjing Zhu#, Xiang Li#, Dongliang Chen, Haobing Liu, Yuan Cao, **Yanwei Yu***   
+   *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
+   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
-J38. **[GeoInformatica]** <span style="color:rgb(0, 130, 196);">"**FlightDiff: a dual-constraint guided two-phase diffusion framework for accurate flight prediction**"</span>       
-   Peilan He, Zewei Zhang, **Yanwei Yu***, Guiyuan Jiang*, Feng Hong, Bin Wang    
-   *GeoInformatica*, (**CCF B**)    
+C46. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment**"</span>     
+   Yingjie Chen#, Xiang Li#, Dongliang Chen, Guoqing Chao, Zhongying Zhao, **Yanwei Yu***   
+   *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
+   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C45. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**Weighted Graph Clustering via Scale Contraction and Graph Structure Learning**"</span>       
@@ -50,6 +56,41 @@ C44. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**ScaleGNN: Towards S
    Xiang Li#, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, **Yanwei Yu***   
    *Proceedings of the ACM Web Conference*  
    (**CCF A**, acceptance rate=676/3370=20.1%)  
+   [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
+
+J44. **[Information Fusion]** <span style="color:rgb(0, 130, 196);">"**ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation**"</span>        
+   Xingyu Zhao#, Jianpeng Qi, Bin Lu, Lei Zhou, Lei Cao, Junyu Dong, **Yanwei Yu***   
+   *Information Fusion*, (**JCR Q1**, **CAAI A**)    
+   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S1566253525011467) | [💻 Code](#) | [📑 Cite](#)
+
+J43. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints**"</span>       
+   **Yanwei Yu**, Haosheng He#, Chao Liu, Junyu Dong, Jianpeng Qi*     
+   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/document/11424561) | [💻 Code](#) | [📑 Cite](#)
+
+J42. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**Efficient Information Updates in Compute-First Networking via Reinforcement Learning with Joint AoI and VoI**"</span>       
+   Jianpeng Qi, Chao Liu, Chengxiang Xu, Rui Wang, Junyu Dong, **Yanwei Yu***   
+   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11396674) | [💻 Code](#) | [📑 Cite](#)
+
+J41. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Trajectory Similarity Hash Learning with Spatio-Temporal GRU**"</span>       
+   Yuan Cao, Chenxu Wang, Zifan Liu, Lei Li, Bin Wang, **Yanwei Yu***    
+   *IEEE Transactions on Big Data*, (**JCR Q1**, **CCF C**)    
+   [📄 PDF](https://ieeexplore.ieee.org/document/11432961) | [💻 Code](#) | [📑 Cite](#)
+
+J40. **[Neural Networks]** <span style="color:rgb(0, 130, 196);">"**Object-guided Multi-granularity unsupervised hashing for image retrieval**"</span>       
+   Zifan Liu, Yuan Cao*, Xue Xu, Peng Luan, **Yanwei Yu***    
+   *Neural Networks*, (**CCF B**)    
+   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S0893608026003084) | [💻 Code](#) | [📑 Cite](#)
+
+J39. **[Fundamental Research]** <span style="color:rgb(0, 130, 196);">"**Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values**"</span>       
+   **Yanwei Yu***, Longxin Guo#, Dongliang Chen*, Guiyuan Jiang, Bin Wang, Yongxin Tong*, Junyu Dong   
+   *Fundamental Research*, (**JCR Q1**)    
+   [📄 PDF](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | [💻 Code](#) | [📑 Cite](#)
+
+J38. **[GeoInformatica]** <span style="color:rgb(0, 130, 196);">"**FlightDiff: a dual-constraint guided two-phase diffusion framework for accurate flight prediction**"</span>       
+   Peilan He, Zewei Zhang, **Yanwei Yu***, Guiyuan Jiang*, Feng Hong, Bin Wang    
+   *GeoInformatica*, (**CCF B**)    
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C43. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Automatic Channel Pruning by Searching with Structure Embedding for Hash Network**"</span>       

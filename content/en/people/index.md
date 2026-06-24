@@ -54,7 +54,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">齐建鹏</td>
               <td style="border: none; padding: 0.75rem;">IJDSN（一作，中科院四区），浙大学报(工学版)（一作，EI），SocialCom（一作，EI）</td>
               <td style="border: none; padding: 0.75rem;">北京科技大学读博</td>
-              <td style="border: none; padding: 0.75rem;">中国海洋大学</td>
+              <td style="border: none; padding: 0.75rem;">青岛科技大学特聘副教授</td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2016</td>
@@ -144,7 +144,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">2020</td>
               <td style="border: none; padding: 0.75rem;">孟凡辉</td>
               <td style="border: none; padding: 0.75rem;">发明专利（学生一作，已授权）</td>
-              <td style="border: none; padding: 0.75rem;">青岛西海岸新区海洋经济研究所</td>
+              <td style="border: none; padding: 0.75rem;">青岛市应急指挥中心</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
@@ -208,7 +208,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">李树哲</td>
               <td style="border: none; padding: 0.75rem;">ACM TOIS（一作，CCF A），FGCS（共一，中科院一区）</td>
               <td style="border: none; padding: 0.75rem;">快手</td>
-              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">字节跳动-抖音总部</td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2021</td>
@@ -234,7 +234,7 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2021</td>
               <td style="border: none; padding: 0.75rem;">税常盛</td>
-              <td style="border: none; padding: 0.75rem;">PKDD（一作，CCF B），ACM TOIS（共一，在投）</td>
+              <td style="border: none; padding: 0.75rem;">PKDD（一作，CCF B），ACM TOIS（共一，CCF A）</td>
               <td style="border: none; padding: 0.75rem;">中电41所</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -269,7 +269,7 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2022</td>
               <td style="border: none; padding: 0.75rem;">郭隆鑫</td>
-              <td style="border: none; padding: 0.75rem;">SCIS （一作，在投）</td>
+              <td style="border: none; padding: 0.75rem;">Fundamental Research（学生一作）</td>
               <td style="border: none; padding: 0.75rem;">青岛联通</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -298,7 +298,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">2022</td>
               <td style="border: none; padding: 0.75rem;">于朋健</td>
               <td style="border: none; padding: 0.75rem;">软件学报（一作，CCF A中文）</td>
-              <td style="border: none; padding: 0.75rem;">青岛公安局某分局</td>
+              <td style="border: none; padding: 0.75rem;">青岛公安局平度分局</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
@@ -313,6 +313,69 @@ sections:
               <td style="border: none; padding: 0.75rem;">李建涛</td>
               <td style="border: none; padding: 0.75rem;">CIKM（一作，CCF B）</td>
               <td style="border: none; padding: 0.75rem;">青岛中海潮科技有限公司</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">颜瀚</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）</td>
+              <td style="border: none; padding: 0.75rem;">中国光大银行青岛异地研发中心</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">何一鸣</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）</td>
+              <td style="border: none; padding: 0.75rem;">福建省发展和改革委员会</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">何浩生</td>
+              <td style="border: none; padding: 0.75rem;">IoTJ（学生一作，中科院一区），ToN（学生一作，CCF A，在投）</td>
+              <td style="border: none; padding: 0.75rem;">北京小米移动软件有限公司南京分公司</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">曹凌啸</td>
+              <td style="border: none; padding: 0.75rem;">AAAI2025（一作，CCF A），发明专利（学生一作，已授权），CCF BigData2026（一作，EI）</td>
+              <td style="border: none; padding: 0.75rem;">黄河水利水电开发有限公司</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">刘雨辰</td>
+              <td style="border: none; padding: 0.75rem;">AAAI2026（一作，CCF A），CCF BigData2024（一作，EI），计算机学报（一作，CCF A中文，在投）</td>
+              <td style="border: none; padding: 0.75rem;">北京小米移动软件有限公司南京分公司</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">夏鸿</td>
+              <td style="border: none; padding: 0.75rem;">ICDE2025（一作，CCF A），AAAI2026（学生一作，CCF A）</td>
+              <td style="border: none; padding: 0.75rem;">滴滴</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">张潇</td>
+              <td style="border: none; padding: 0.75rem;">AAAI2026（一作，CCF A），TKDE（一作，CCF A,在投），ICDE（第二作者，CCF A）</td>
+              <td style="border: none; padding: 0.75rem;">北京航天航空大学科研助理</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">刘晨曦</td>
+              <td style="border: none; padding: 0.75rem;">发明专利（学生一作，已授权），TKDD（一作，CCF B，在投），BigComp2026（一作，EI）</td>
+              <td style="border: none; padding: 0.75rem;">浪潮电子信息产业股份有限公司</td>
+              <td style="border: none; padding: 0.75rem;"></td>
+            </tr>
+            <tr style="border-bottom: 1px solid #dee2e6;">
+              <td style="border: none; padding: 0.75rem;"></td>
+              <td style="border: none; padding: 0.75rem;">井立宪</td>
+              <td style="border: none; padding: 0.75rem;">发明专利（学生一作，已授权），TMC（一作，CCF A ，在投），IOTJ（学生一作，中科院一区）</td>
+              <td style="border: none; padding: 0.75rem;">山东省农村信用社联合社</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
           </tbody>
