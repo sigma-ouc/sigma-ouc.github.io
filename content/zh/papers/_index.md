@@ -13,7 +13,7 @@ banner:
 C51. **[SIGMOD 2027]** <span style="color:rgb(0, 130, 196);">"**FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction**"</span>     
    Kunyu Ni#, Lei Cao, Jie He, Xiaotong Zhang, Jianfeng Jin, Junyu Dong, **Yanwei Yu***   
    *Proceedings of the ACM on Management of Data 2027*      
-   (**CCF A**, acceptance rate=XXX/XXXX=XX.X%)       
+   (**CCF A**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C50. **[KDD 2026]** <span style="color:rgb(0, 130, 196);">"**Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology**"</span>     
@@ -25,25 +25,25 @@ C50. **[KDD 2026]** <span style="color:rgb(0, 130, 196);">"**Machine Learning fo
 C49. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Towards Efficient and Effective Unimodal Trajectory Representation Learning: A Simple Yet Powerful Approach**"</span>     
    Shaoxuan Gu#, Xingyu Zhao#, Dongliang Chen, Yuan Cao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
-   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   (**CCF B**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C48. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference**"</span>     
    Liangkun Chen#, Xiang Li#, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
-   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   (**CCF B**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C47. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference**"</span>     
    Jingjing Zhu#, Xiang Li#, Dongliang Chen, Haobing Liu, Yuan Cao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
-   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   (**CCF B**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C46. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment**"</span>     
    Yingjie Chen#, Xiang Li#, Dongliang Chen, Guoqing Chao, Zhongying Zhao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
-   (**CCF B**, acceptance rate=XXX/XXXX=XX.X%)       
+   (**CCF B**)       
    [📄 PDF](#) | [💻 Code](#) | [📑 Cite](#)
 
 C45. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**Weighted Graph Clustering via Scale Contraction and Graph Structure Learning**"</span>       
