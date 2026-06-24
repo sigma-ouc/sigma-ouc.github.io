@@ -8,6 +8,19 @@ banner:
 
 <br>    
 
+
+<span style="color:rgb(255, 0, 0);">**[2026/06/13] Congratulations to Kunyu Ni as the first author for having their paper accepted by SIGMOD 2027!**</span> 🎉🎉🎉    
+<br>    
+
+<span style="color:rgb(255, 0, 0);">**[2026/05/17] Congratulations to Shuo Lian as the co-first author for having their paper accepted by the KDD 2026 AI4Science Track!**</span> 🎉🎉🎉    
+<br>    
+
+<span style="color:rgb(255, 0, 0);">**[2026/05/01] Congratulations to Shaoxuan Gu, Liangkun Chen, Jingjing Zhu, and Yingjie Chen as first authors for having four papers accepted by IJCAI 2026!**</span> 🎉🎉🎉    
+<br>    
+
+<span style="color:rgb(255, 0, 0);">**[2026/01/13] Congratulations to Xiang Li as the first author for having their paper accepted by WWW 2026!**</span> 🎉🎉🎉    
+<br>    
+
 <span style="color:rgb(255, 0, 0);">**[2025/11/08] Congratulations to Xiang Li as the first author for having the paper \"Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy\" accepted by AAAI 2026!**</span> 🎉🎉🎉    
 <br>    
 

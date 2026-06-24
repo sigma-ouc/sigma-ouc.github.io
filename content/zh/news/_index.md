@@ -7,7 +7,19 @@ banner:
 ---
 
 <br>    
-     
+
+<span style="color:rgb(255, 0, 0);">[2026/06/13] 祝贺倪坤宇作为一作的论文被数据库领域顶会SIGMOD 2027接收！</span> 🎉🎉🎉
+
+
+<span style="color:rgb(255, 0, 0);">[2026/05/17] 祝贺连朔作为共同第一作者的论文被CCF A类会议KDD 2026 AI4Science Track接收！</span> 🎉🎉🎉
+
+
+<span style="color:rgb(255, 0, 0);">[2026/05/01] 祝贺谷少轩、陈亮锟、朱晶晶、陈英杰作为第一作者的四篇论文被IJCAI 2026接收！</span> 🎉🎉🎉
+
+
+<span style="color:rgb(255, 0, 0);">[2026/01/13] 祝贺李享一作的论文被CCF A类会议WWW 2026接收！</span> 🎉🎉🎉
+
+
 <span style="color:rgb(255, 0, 0);">**[2025/11/08] 祝贺李享一作的论文“Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy”被CCF A类会议AAAI2026接收！**</span> 🎉🎉    
 <br>    
       
