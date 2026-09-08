@@ -1,22 +1,22 @@
 ---
 # Display name
-title: 曹凌啸
+title: Sirui Wang
 
 # Full name (for SEO)
-first_name: Lingxiao
-last_name: Cao
+first_name: Sirui
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Lingxiao Cao
+  - Sirui Wang
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2309"
+index: "Phd2601"
 
 # Role/position
-role: 2023硕士生
+role: PhD Student in 2026
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
-#   - 交通预测
+  # - Graph Neural Network
   # - Computational Linguistics
   # - Information Retrieval
 
@@ -50,10 +50,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:caolingxiao@stu.ouc.edu.cn'
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: https://yuyanwei.github.io/index.html
+    link: 'mailto:XXX@stu.ouc.edu.cn'
+  - icon: cv
+    icon_pack: ai
+    link: https://catchacat083.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,10 +67,23 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'caolingxiao@stu.ouc.edu.cn'
+email: 'XXX@stu.ouc.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士生
+  - PhD Students
 ---
+
+<!-- 在 head 中预加载目标页面 -->
+<link rel="preconnect" href="https://catchacat083.github.io/">
+<link rel="prefetch" href="https://catchacat083.github.io/">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  window.location.replace('https://catchacat083.github.io/');
+});
+</script>
+
+### Personal Homepage
+https://catchacat083.github.io/
