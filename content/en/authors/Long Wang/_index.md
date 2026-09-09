@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Sirui Wang
+title: Long Wang
 
 # Full name (for SEO)
-first_name: Sirui
+first_name: Long
 last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - Sirui Wang
+  - Long Wang
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Phd2601"
+index: "Phd2603"
 
 # Role/position
 role: PhD Student in 2026
@@ -50,10 +50,10 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:umikazerin@foxmail.com'
+    link: 'mailto:wll200012352@163.com'
   - icon: cv
     icon_pack: ai
-    link: https://systemcardinal.github.io/yamikaze.github.io/
+    link: https://wanglong12352.github.io/
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -67,7 +67,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'umikazerin@foxmail.com'
+email: 'wll200012352@163.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,14 +76,14 @@ user_groups:
 ---
 
 <!-- 在 head 中预加载目标页面 -->
-<link rel="preconnect" href="https://systemcardinal.github.io/yamikaze.github.io/">
-<link rel="prefetch" href="https://systemcardinal.github.io/yamikaze.github.io/">
+<link rel="preconnect" href="https://wanglong12352.github.io/">
+<link rel="prefetch" href="https://wanglong12352.github.io/">
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  window.location.replace('https://systemcardinal.github.io/yamikaze.github.io/');
+  window.location.replace('https://wanglong12352.github.io/');
 });
 </script>
 
 ### Personal Homepage
-https://catchacat083.github.io/
+https://wanglong12352.github.io/
