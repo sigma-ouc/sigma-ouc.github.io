@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Changyan Gao.  
+My name is Changyan Gao. I am from Jining, Shandong Province. I earned my Bachelor's degree in Software Engineering from Liaocheng University, where I ranked 1st out of 160 students with a GPA of 4.14/5.0. In 2026, I was admitted to Ocean University of China through the recommendation-based postgraduate admission program to pursue a Master's degree under the supervision of Professor Yanwei Yu. 
 
 **Email**: gaocy@stu.ouc.edu.cn
 </div>
