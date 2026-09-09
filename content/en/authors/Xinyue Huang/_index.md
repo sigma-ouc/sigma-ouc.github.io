@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Huang Xinyue. I am from Liaocheng, Shandong Province. Having earned my Bachelor’s degree from Liaocheng University, I enrolled in Ocean University of China in 2026 to pursue a Master’s degree under the supervision of Professor Yanwei Yu.   
+My name is Huang Xinyue. I am from Liaocheng, Shandong Province. Having earned my Bachelor\'s degree from Liaocheng University, I enrolled in Ocean University of China in 2026 to pursue a Master\'s degree under the supervision of Professor Yanwei Yu.   
 
 **Email**: huangxinyue@stu.ouc.edu.cn
 </div>
