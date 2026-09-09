@@ -130,7 +130,7 @@ sections:
               <td style="border: none; padding: 0.75rem;">2020</td>
               <td style="border: none; padding: 0.75rem;">陈伟</td>
               <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），TKDD（一作，CCF B）</td>
-              <td style="border: none; padding: 0.75rem;">香港科技大学（广州）</td>
+              <td style="border: none; padding: 0.75rem;">香港科技大学（广州）/ 国家奖学金，山东省优秀毕业生</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
@@ -199,7 +199,7 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2021</td>
               <td style="border: none; padding: 0.75rem;">秦广明</td>
-              <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），AAAI（一作，CCF A）</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），AAAI（一作，CCF A）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">北京理工大学计算机学院博士在读</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -318,14 +318,14 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2023</td>
               <td style="border: none; padding: 0.75rem;">颜瀚</td>
-              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">中国光大银行青岛异地研发中心</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2023</td>
               <td style="border: none; padding: 0.75rem;">何一鸣</td>
-              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI2025（一作，CCF A），发明专利（学生一作，已授权），软件学报（学生一作，CCF A中文，在投）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">福建省发展和改革委员会</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -339,7 +339,7 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2023</td>
               <td style="border: none; padding: 0.75rem;">曹凌啸</td>
-              <td style="border: none; padding: 0.75rem;">AAAI2025（一作，CCF A），发明专利（学生一作，已授权），CCF BigData2026（一作，EI）</td>
+              <td style="border: none; padding: 0.75rem;">AAAI2025（一作，CCF A），发明专利（学生一作，已授权），CCF BigData2026（一作，EI）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">黄河水利水电开发有限公司</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -353,7 +353,7 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2023</td>
               <td style="border: none; padding: 0.75rem;">夏鸿</td>
-              <td style="border: none; padding: 0.75rem;">ICDE2025（一作，CCF A），AAAI2026（学生一作，CCF A）</td>
+              <td style="border: none; padding: 0.75rem;">ICDE2025（一作，CCF A），AAAI2026（学生一作，CCF A）/ 小米特等奖学金</td>
               <td style="border: none; padding: 0.75rem;">滴滴</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
