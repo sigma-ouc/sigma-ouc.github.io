@@ -51,7 +51,9 @@ sections:
           <tbody>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2015</td>
-              <td style="border: none; padding: 0.75rem;">齐建鹏</td>
+              <td style="border: none; padding: 0.75rem;">
+                <a href="https://qijianpeng.github.io/" target="_blank">齐建鹏</a>
+              </td>
               <td style="border: none; padding: 0.75rem;">IJDSN（一作，中科院四区），浙大学报(工学版)（一作，EI），SocialCom（一作，EI）</td>
               <td style="border: none; padding: 0.75rem;">北京科技大学读博</td>
               <td style="border: none; padding: 0.75rem;">青岛科技大学特聘副教授</td>
