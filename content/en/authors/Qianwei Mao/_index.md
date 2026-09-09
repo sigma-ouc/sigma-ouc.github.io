@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Haoran Zuo
+title: Qianwei Mao
 
 # Full name (for SEO)
-first_name: Haoran
-last_name: Zuo
+first_name: Qianwei
+last_name: Mao
 
 # Username (this should match the folder name)
 authors:
-  - Haoran Zuo
+  - Qianwei Mao
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2602"
+index: "Master2604"
 
 # Role/position
 role: Master Student in 2026
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haoranzuo@stu.ouc.edu.cn'
+    link: 'mailto:maoqianwei@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,15 +77,15 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Hello guys.I am zuohaoran from hefei which is called the Technology City Of China.I am interested in data processing,Welcome to consult.
+My name is Qianwei Mao. I am from Quzhou, Zhejiang Province. After earning my Bachelor's degree in Digital Media Technology from Liaoning Normal University, I enrolled in Ocean University of China in 2026 to pursue a Master's degree, supervised by Professor Yanwei Yu.    
 
-**Email**: haoranzuo@stu.ouc.edu.cn
+**Email**: maoqianwei@stu.ouc.edu.cn
 </div>
 
 ### Interests
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-- AI for Database
+- Multivariate Time Series Forecasting
 
 </div>
 

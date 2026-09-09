@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Haoran Zuo
+title: Yu Pan
 
 # Full name (for SEO)
-first_name: Haoran
-last_name: Zuo
+first_name: Yu
+last_name: Pan
 
 # Username (this should match the folder name)
 authors:
-  - Haoran Zuo
+  - Yu Pan
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2602"
+index: "Master2603"
 
 # Role/position
 role: Master Student in 2026
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haoranzuo@stu.ouc.edu.cn'
+    link: 'mailto:panyu@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,15 +77,15 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Hello guys.I am zuohaoran from hefei which is called the Technology City Of China.I am interested in data processing,Welcome to consult.
+My name is PanYu. I am from Qinhuangdao, Hebei province. I am a master's student at Ocean University of China, under the guidance of Professor Yu Yanwei. I graduated from Kunming University of Science and Technology with my undergraduate degree.
 
-**Email**: haoranzuo@stu.ouc.edu.cn
+**Email**: panyu@stu.ouc.edu.cn
 </div>
 
 ### Interests
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-- AI for Database
+- Multivariate Time Series Forecasting
 
 </div>
 

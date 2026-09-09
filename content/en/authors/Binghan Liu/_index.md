@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Haoran Zuo
+title: Binghan Liu
 
 # Full name (for SEO)
-first_name: Haoran
-last_name: Zuo
+first_name: Binghan
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - Haoran Zuo
+  - Binghan Liu
 
 # Is this the primary user of the site?
 superuser: false
 
-index: "Master2602"
+index: "Master2606"
 
 # Role/position
 role: Master Student in 2026
@@ -50,7 +50,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:haoranzuo@stu.ouc.edu.cn'
+    link: 'mailto:liubinghan@stu.ouc.edu.cn'
   # - icon: cv
   #   icon_pack: ai
   #   link: https://yuyanwei.github.io/index.html
@@ -77,15 +77,15 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-Hello guys.I am zuohaoran from hefei which is called the Technology City Of China.I am interested in data processing,Welcome to consult.
+I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor's degree at Qingdao University of Science and Technology.   
 
-**Email**: haoranzuo@stu.ouc.edu.cn
+**Email**: liubinghan@stu.ouc.edu.cn
 </div>
 
 ### Interests
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-- AI for Database
+- Spatio-temporal Data Mining
 
 </div>
 
