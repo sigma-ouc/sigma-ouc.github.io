@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-I am a master's student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor\'s degree at Qingdao University of Science and Technology.   
+I am a master\'s student at the SIGMA Lab, Faculty of Information Science and Engineering, Ocean University of China, supervised by Professor Yanwei Yu. I completed my bachelor\'s degree at Qingdao University of Science and Technology.   
 
 **Email**: liubinghan@stu.ouc.edu.cn
 </div>
