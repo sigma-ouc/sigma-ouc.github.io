@@ -43,7 +43,7 @@ sections:
             <tr style="border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
               <th style="border: none; padding: 0.75rem; text-align: left;">年级</th>
               <th style="border: none; padding: 0.75rem; text-align: left;">姓名</th>
-              <th style="border: none; padding: 0.75rem; text-align: left;">在校成果</th>
+              <th style="border: none; padding: 0.75rem; text-align: left;">在校成果/奖励荣誉</th>
               <th style="border: none; padding: 0.75rem; text-align: left;">首次就业</th>
               <th style="border: none; padding: 0.75rem; text-align: left;">现工作单位</th>
             </tr>

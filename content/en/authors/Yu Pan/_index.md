@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is PanYu. I am from Qinhuangdao, Hebei province. I am a master's student at Ocean University of China, under the guidance of Professor Yu Yanwei. I graduated from Kunming University of Science and Technology with my undergraduate degree.
+My name is PanYu. I am from Qinhuangdao, Hebei province. I am a master\'s student at Ocean University of China, under the guidance of Professor Yu Yanwei. I graduated from Kunming University of Science and Technology with my undergraduate degree.
 
 **Email**: panyu@stu.ouc.edu.cn
 </div>

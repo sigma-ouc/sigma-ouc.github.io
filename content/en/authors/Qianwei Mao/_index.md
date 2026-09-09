@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Qianwei Mao. I am from Quzhou, Zhejiang Province. After earning my Bachelor's degree in Digital Media Technology from Liaoning Normal University, I enrolled in Ocean University of China in 2026 to pursue a Master's degree, supervised by Professor Yanwei Yu.    
+My name is Qianwei Mao. I am from Quzhou, Zhejiang Province. After earning my Bachelor\'s degree in Digital Media Technology from Liaoning Normal University, I enrolled in Ocean University of China in 2026 to pursue a Master\'s degree, supervised by Professor Yanwei Yu.    
 
 **Email**: maoqianwei@stu.ouc.edu.cn
 </div>

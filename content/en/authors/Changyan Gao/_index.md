@@ -77,7 +77,7 @@ user_groups:
 
 <div style="font-size: 0.9em;"> <!-- 调小至原字体的90% -->
 
-My name is Changyan Gao, and I am from Jining, Shandong Province. I earned my Bachelor's degree in Software Engineering from Liaocheng University, where I developed a solid foundation in software development and related technologies. In 2026, I began pursuing a Master's degree at Ocean University of China under the supervision of Professor Yanwei Yu. My current research interest focuses on Graph Neural Networks.
+My name is Changyan Gao, and I am from Jining, Shandong Province. I earned my Bachelor\'s degree in Software Engineering from Liaocheng University, where I developed a solid foundation in software development and related technologies. In 2026, I began pursuing a Master\'s degree at Ocean University of China under the supervision of Professor Yanwei Yu. My current research interest focuses on Graph Neural Networks.
 
 **Email**: gaocy@stu.ouc.edu.cn
 </div>
