@@ -6,7 +6,12 @@ banner:
   image: ''
 ---
 
-\# Supervised students, * Corresponding author
+<div class="sigma-publications">
+
+<div class="sigma-publications-intro">
+  <span class="sigma-publications-kicker">SIGMA research output</span>
+  <p><strong>#</strong> Supervised students, <strong>*</strong> Corresponding author</p>
+</div>
 
 ## 📚 2026
 
@@ -574,3 +579,5 @@ C1. **[ICDE 2014]** <span style="color:rgb(0, 130, 196);">"**Scalable Distance-B
    *2014 IEEE 30th International Conference on Data Engineering*  
    (**CCF A**, acceptance rate=89/446=20%)  
    [📄 PDF](https://ieeexplore.ieee.org/abstract/document/6816641/) | [💻 Code](#) | [📑 Cite](#)  
+
+</div>

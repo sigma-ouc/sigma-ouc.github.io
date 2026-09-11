@@ -29,6 +29,9 @@ zh:
     - name: 科研项目
       url: projects
       weight: 40    
+    - name: 论文源码
+      url: source
+      weight: 45
     - name: 联系我们
       url: contact
       weight: 50

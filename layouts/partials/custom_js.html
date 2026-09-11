@@ -1,0 +1,11 @@
+{{/* Site-wide custom scripts. */}}
+{{ $publicationScript := resources.Get "js/publication-gallery.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $publicationScript.RelPermalink }}"></script>
+{{ $heroScript := resources.Get "js/hero-carousel.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $heroScript.RelPermalink }}"></script>
+{{ $scholarCiteScript := resources.Get "js/scholar-cite.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $scholarCiteScript.RelPermalink }}"></script>
+{{ $projectScript := resources.Get "js/project-gallery.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $projectScript.RelPermalink }}"></script>
+{{ $projectReadMoreScript := resources.Get "js/project-read-more.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $projectReadMoreScript.RelPermalink }}"></script>

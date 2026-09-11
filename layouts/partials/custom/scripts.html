@@ -1,3 +1,5 @@
 {{/* 使用 Hugo 资源管道处理脚本 */}}
 {{ $script := resources.Get "js/people-link.js" | resources.Minify | resources.Fingerprint }}
 <script src="{{ $script.RelPermalink }}"></script>
+{{ $publicationScript := resources.Get "js/publication-gallery.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $publicationScript.RelPermalink }}"></script>
