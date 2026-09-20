@@ -110,6 +110,10 @@
       const copy = document.createElement('div');
       copy.className = 'paper-copy';
       copy.innerHTML = card.innerHTML;
+      // Keep the publication ID internally for figure matching, but hide it from the visible card.
+      if (copy.firstChild && copy.firstChild.nodeType === Node.TEXT_NODE) {
+        copy.firstChild.textContent = copy.firstChild.textContent.replace(/^[CJ]\d+\.\s*/, '');
+      }
 
       const figure = document.createElement('figure');
       figure.className = 'paper-figure';

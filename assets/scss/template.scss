@@ -46,13 +46,18 @@ body {
 
 .wg-hero .hero-title {
   color: var(--sigma-ink);
-  font-size: clamp(1.45rem, 3.2vw, 2.4rem);
+  max-width: 100%;
+  min-width: 0;
+  font-size: clamp(1.55rem, 2.5vw, 2.4rem);
   font-weight: 800;
   letter-spacing: -0.04em;
-  white-space: nowrap;
+  white-space: normal !important;
+  overflow-wrap: anywhere;
 }
 
 .wg-hero > .row > .col-md-6:first-child {
+  min-width: 0;
+  overflow: hidden;
   padding-right: 2rem;
 }
 

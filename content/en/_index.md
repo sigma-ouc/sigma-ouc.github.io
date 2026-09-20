@@ -77,7 +77,7 @@ sections:
           .sigma-home-news-list > p a { color: #1769aa; font-weight: 700; text-decoration: none; }
           .wg-hero .row { align-items: flex-start; }
           .wg-hero .hero-media { align-self: flex-start; margin-top: 0; }
-          .wg-hero .hero-title { max-width: none; margin-bottom: 1rem; font-size: clamp(1.9rem, 2.8vw, 2.75rem); line-height: 1.08; }
+          .wg-hero .hero-title { max-width: 100% !important; min-width: 0; margin-bottom: 1rem; font-size: clamp(1.55rem, 2.5vw, 2.4rem); line-height: 1.08; white-space: normal !important; overflow-wrap: anywhere; }
           .wg-hero .hero-lead { max-width: 34rem; font-size: 1.05rem; line-height: 1.58; }
           .wg-hero .cta-btns { margin-top: 1.35rem; }
           .wg-hero .cta-btns .btn { padding: 0.75rem 1.35rem; border-radius: 999px; transition: box-shadow 180ms ease, transform 180ms ease; }
