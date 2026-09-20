@@ -8,9 +8,9 @@ translationKey: source-page
 <style>
 .page-body > .universal-wrapper.pt-3 h1{font-size:clamp(2rem,3vw,2.6rem);margin-bottom:.35rem}
 .sigma-source{max-width:100%;color:#102a43}
-.sigma-source-lead{margin:0 0 1.5rem;color:#486581;font-size:1rem}
 .sigma-source h1{font-size:1.45rem;margin:2rem 0 1rem;color:#102a43}
 .sigma-source h2{font-size:1.3rem;font-weight:800;margin:2.5rem 0 1rem;padding-top:.5rem;color:#102a43;border-bottom:2px solid rgba(23,105,170,.16);padding-bottom:.55rem;text-align:center}
+.sigma-source>h2:first-child{margin-top:.75rem}
 .sigma-source h3{font-size:1.05rem;margin:1.25rem 0 .7rem;color:#243b53}
 .sigma-source table{width:100%;margin:0 0 2rem;border-collapse:separate;border-spacing:0;overflow:hidden;border:1px solid rgba(16,42,67,.12);border-radius:.8rem;box-shadow:0 6px 18px rgba(16,42,67,.05);font-size:.9rem}
 .sigma-source th{padding:.75rem .85rem;background:#f4f8fc;color:#243b53;border-bottom:1px solid rgba(16,42,67,.14);font-size:.78rem;letter-spacing:.02em;text-align:left;white-space:nowrap}
@@ -32,20 +32,13 @@ translationKey: source-page
 
 </style>
 <div class="sigma-source">
-<p class="sigma-source-lead">SIGMA 实验室已发表论文、研究方向、论文链接与源代码索引。</p>
-
-# 实验室已发表论文源码索引
-
-本仓库用于维护实验室已发表论文的 paper 与 code 索引。  
-所有 code 链接默认指向实验室账号下 fork 或维护的源码仓库。
-
-## 方向总览
+<h2>方向总览</h2>
 
 | 方向 | 主方向论文数 |
 |---|:---:|
-| [Spatiotemporal Data Mining](#spatiotemporal-data-mining) | 26 |
-| [Graph Neural Networks](#graph-neural-networks) | 20 |
-| [Graph Data Mining](#graph-data-mining) | 4 |
+| [Spatiotemporal Data Mining](#spatiotemporal-data-mining) | 24 |
+| [Graph Neural Networks](#graph-neural-networks) | 21 |
+| [Graph Data Mining](#graph-data-mining) | 5 |
 | [Multivariate Time Series Forecasting](#multivariate-time-series-forecasting) | 4 |
 | [Edge Computing](#edge-computing) | 2 |
 | [Data Mining](#data-mining) | 7 |
@@ -65,11 +58,9 @@ translationKey: source-page
 | Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38658) | [Code](https://github.com/sigma-ouc/2026AAAI-MetaTRL) |
 | TrajAgg: Dual-Scale Feature Aggregation with Hybrid Training for Trajectory Similarity Computation in Free Space | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38675) | [Code](https://github.com/sigma-ouc/2026AAAI-TrajAgg) |
 | MA^2Traj: Diffusion network with multi-attribute aggregation for trajectory generation | 2025 | GeoInformatica<br>(<span class="sigma-source-badge">CCF B</span>) | [Paper](https://dl.acm.org/doi/abs/10.1007/s10707-025-00549-9) | TODO |
-| Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs | 2025 | The VLDB Jounral<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://doi.org/10.1007/s00778-025-00926-8) | TODO |
 | Correlation-Attention Masked Temporal Transformer for User Identity Linkage Using Heterogeneous Mobility Data | 2025 | Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=3032/12957=23.4%, Oral) | [Paper](https://doi.org/10.1609/aaai.v39i12.33418) | [Code](https://github.com/sigma-ouc/2025AAAI-Mt-Link) |
 | Scalable Trajectory-User Linking with Dual-Stream Representation Networks | 2025 | Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=3032/12957=23.4%, Oral) | [Paper](https://doi.org/10.1609/aaai.v39i12.33443) | [Code](https://github.com/sigma-ouc/2026AAAI-ScalableTUL) |
 | Spatiotemporal-aware Trend-Seasonality Decomposition Network for Traffic Flow Forecasting | 2025 | Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=3032/12957=23.4%, Oral) | [Paper](https://doi.org/10.1609/aaai.v39i11.33247) | [Code](https://github.com/sigma-ouc/2025AAAI-STDN) |
-| Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation | 2025 | Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=3032/12957=23.4%, Oral) | [Paper](https://doi.org/10.1609/aaai.v39i12.33445) | [Code](https://github.com/sigma-ouc/2025AAAI-LightGC2N) |
 | Self-Supervised Trajectory Representation Learning with Multi-Scale Spatio-Temporal Feature Exploration | 2025 | Proceedings of 41th IEEE International Conference on Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=300/1465=20.5%) | [Paper]( 10.1109/ICDE65448.2025.00064) | [Code](https://github.com/sigma-ouc/2025ICDE-TrajRL) |
 | MCN4Rec: Multi-level Collaborative Neural Network for Next Location Recommendation | 2024 | ACM Transactions on Information Systems<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://doi.org/10.1145/3643669) | [Code](https://github.com/sigma-ouc/2024TOIS-MCN4Rec) |
 | Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning | 2024 | Geophysical Research Letters<br>(JCR Q1) | [Paper]( https://doi.org/10.1029/2024gl112308) |TODO |
@@ -99,9 +90,10 @@ translationKey: source-page
 | Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference | 2026 | Proceedings of the 35th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF B</span>) | TODO | [Code](https://github.com/Tilamisu-zz/DHISL) |
 | Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values | 2026 | Fundamental Research<br>(JCR Q1) | [Paper](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | TODO |
 | ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion | 2026 | Proceedings of the ACM Web Conference<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=676/3370=20.1%) | [Paper](https://dl.acm.org/doi/10.1145/3774904.3792347) | [Code](https://github.com/sigma-ouc/2026-WWW-ScaleGNN)|
-| Automatic Channel Pruning by Searching with Structure Embedding for Hash Network | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39029) | TODO|
+| Automatic Channel Pruning by Searching with Structure Embedding for Hash Network | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39029) | [Code](https://github.com/sigma-ouc/2026AAAI-ACP-SSE)|
 | Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38536) | [Code](https://github.com/sigma-ouc/2026AAAI-MRiemGNN)|
 | S²HyRec: Self-Supervised Hypergraph Sequential Recommendation | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38566) | [Code](https://github.com/sigma-ouc/2026AAAI-S2HyRec)|
+| Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation | 2025 | Proceedings of Thirty-Ninth AAAI Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=3032/12957=23.4%, Oral) | [Paper](https://doi.org/10.1609/aaai.v39i12.33445) | [Code](https://github.com/sigma-ouc/2025AAAI-LightGC2N) |
 | Multi-Channel Hypergraph Contrastive Learning for Matrix Completion | 2025 | ACM Transactions on Information Systems<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://dl.acm.org/doi/full/10.1145/3768319) | [Code](https://github.com/sigma-ouc/2025TOIS-MHCL)|
 | Local High-order Structure-aware Graph Neural Network for motif prediction | 2025 | Knowledge-Based Systems<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125006641) | [Code](https://github.com/sigma-ouc/2025KBS-LHSGNN)|
 | MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking | 2025 | Proceedings of the 34th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=1042/5404=19.3%) | [Paper](https://doi.org/10.24963/ijcai.2025/322) | [Code](https://github.com/sigma-ouc/2025IJCAI-MaskDGNN)|
@@ -133,6 +125,7 @@ translationKey: source-page
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
 | Weighted Graph Clustering via Scale Contraction and Graph Structure Learning | 2026 | Proceedings of the ACM Web Conference<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=676/3370=20.1%) | [Paper](https://dl.acm.org/doi/10.1145/3774904.3792363) | TODO |
+| Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs | 2025 | The VLDB Jounral<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://doi.org/10.1007/s00778-025-00926-8) | TODO |
 | UMGAD: Unsupervised Multiplex Graph Anomaly Detection | 2025 | Proceedings of 41th IEEE International Conference on Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=300/1465=20.5%) | [Paper](10.1109/ICDE65448.2025.00278) | [Code](https://github.com/sigma-ouc/2025ICDE-UMGAD) |
 | MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs | 2024 | Proceedings of the 33rd ACM International Conference on Information and Knowledge Management<br>(<span class="sigma-source-badge">CCF B</span>, acceptance rate=347/1496=23%) | [Paper](https://doi.org/10.1145/3627673.3679694) | TODO |
 | Scalable Motif Counting for Large-scale Temporal Graphs | 2022 | Proceedings of 38th IEEE International Conference on Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=211/780=27.1%) | [Paper](10.1109/ICDE53745.2022.00244) | [Code](https://github.com/sigma-ouc/2022ICDE-FAST-temporal-motif) |
@@ -158,7 +151,7 @@ translationKey: source-page
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
 | DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting | 2025 | Proceedings of the 34th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=1042/5404=19.3%) | [Paper](https://doi.org/10.24963/ijcai.2025/391) | [Code](https://github.com/sigma-ouc/2025IJCAI-DGraFormer) |
-| Non-collective Calibrating Strategy for Time Series Forecasting | 2025 | Proceedings of the 34th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=1042/5404=19.3%) | [Paper](https://doi.org/10.24963/ijcai.2025/371) | TODO |
+| Non-collective Calibrating Strategy for Time Series Forecasting | 2025 | Proceedings of the 34th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=1042/5404=19.3%) | [Paper](https://doi.org/10.24963/ijcai.2025/371) | [Code](https://github.com/sigma-ouc/2025IJCAI-SoP) |
 | Dataset Condensation for Time Series Classification via Dual Domain Matching | 2024 | Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=409/2046=20%) | [Paper](https://doi.org/10.1145/3637528.3671675) | [Code](https://github.com/sigma-ouc/2024KDD-TimeSeriesCond) |
 | Robust anomaly detection for multivariate time series through temporal GCNs and attention-based VAE | 2023 | Knowledge-Based Systems<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://doi.org/10.1016/j.knosys.2023.110725) | [Code](https://github.com/sigma-ouc/2023KBS-MUTANT) |
 
@@ -177,8 +170,8 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
-| Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/document/11424561?denied=) | TODU |
-| Efficient Information Updates in Compute-First Networking via Reinforcement Learning With Joint AoI and VoI | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11396674) | TODU |
+| Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/document/11424561?denied=) | TODO |
+| Efficient Information Updates in Compute-First Networking via Reinforcement Learning With Joint AoI and VoI | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11396674) | TODO |
 
 ---
 

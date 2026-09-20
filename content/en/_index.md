@@ -30,15 +30,15 @@ sections:
     content:
       title: What we work on
       items:
-        - name: Graph learning
+        - name: Graph Learning
           description: Representation learning and scalable algorithms for complex heterogeneous networks.
           icon: project-diagram
           icon_pack: fas
-        - name: Spatiotemporal intelligence
+        - name: Spatiotemporal Intelligence
           description: Models that understand movement, time, place, and the dynamics of urban systems.
           icon: route
           icon_pack: fas
-        - name: Applied data mining
+        - name: Applied Data Mining
           description: Research that connects principled methods with transportation, recommendation, and social applications.
           icon: chart-line
           icon_pack: fas
@@ -124,9 +124,9 @@ sections:
       subtitle: Recent publications, awards, and group updates
       text: |
         <div class="sigma-home-news-list">
-          <div class="sigma-home-news-item"><time datetime="2026-06-13">13 Jun 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>One paper was accepted by <strong>SIGMOD 2027</strong> (<strong>Kunyu Ni</strong> as the first author).</p></div>
-          <div class="sigma-home-news-item"><time datetime="2026-05-17">17 May 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>One paper was accepted by the <strong>KDD 2026 AI4Science Track</strong> (<strong>Shuo Lian</strong> as the co-first author).</p></div>
-          <div class="sigma-home-news-item"><time datetime="2026-05-01">01 May 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>Four papers were accepted by <strong>IJCAI 2026</strong> (<strong>Shaoxuan Gu, Liangkun Chen, Jingjing Zhu, and Yingjie Chen</strong> as first authors).</p></div>
+          <div class="sigma-home-news-item"><time datetime="2026-06-13">13 Jun 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>One paper was accepted by SIGMOD 2027 (Kunyu Ni as the first author). 🎉🎉🎉</p></div>
+          <div class="sigma-home-news-item"><time datetime="2026-05-17">17 May 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>One paper was accepted by the KDD 2026 AI4Science Track (Shuo Lian as the co-first author). 🎉🎉🎉</p></div>
+          <div class="sigma-home-news-item"><time datetime="2026-05-01">01 May 2026</time><span class="fas fa-newspaper" aria-hidden="true"></span><p>Four papers were accepted by IJCAI 2026 (Shaoxuan Gu, Liangkun Chen, Jingjing Zhu, and Yingjie Chen as first authors). 🎉🎉🎉</p></div>
           <p class="mt-3"><a href="./news/">See all posts <span aria-hidden="true">→</span></a></p>
         </div>
     design:
@@ -157,7 +157,7 @@ sections:
           <div class="row justify-content-center">
             <div class="col-12 col-md-6 text-center">
               <h5>LINKS</h5>
-              <a class="mr-3" href="https://www.ai-ouc.cn/" target="_blank" rel="noopener">Institute of Artificial Intelligence</a>
+              <a href="https://www.ai-ouc.cn/" target="_blank" rel="noopener">Institute of Artificial Intelligence</a><br>
               <a href="https://it.ouc.edu.cn/" target="_blank" rel="noopener">Faculty of Information Science and Engineering</a>
             </div>
           </div>

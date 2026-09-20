@@ -9,11 +9,10 @@ banner:
 <div class="sigma-publications">
 
 <div class="sigma-publications-intro">
-  <span class="sigma-publications-kicker">SIGMA research output</span>
   <p><strong>#</strong> Supervised students, <strong>*</strong> Corresponding author</p>
 </div>
 
-## 📚 2026
+## 📚 2027
 
 C51. **[SIGMOD 2027]** <span style="color:rgb(0, 130, 196);">"**FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction**"</span>     
    Kunyu Ni#, Lei Cao, Jie He, Xiaotong Zhang, Jianfeng Jin, Junyu Dong, **Yanwei Yu***   
@@ -21,35 +20,57 @@ C51. **[SIGMOD 2027]** <span style="color:rgb(0, 130, 196);">"**FlowPipe: LLM-En
    (**CCF A**)       
    [📄 PDF](https://arxiv.org/abs/2606.24679) | [💻 Repository](https://github.com/KunyuNi/FlowPipe) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlowPipe%3A+LLM-Enhanced+Conditional+Generative+Flow+Networks+for+Data+Preparation+Pipeline+Construction&btnG=)
 
+## 📚 2026
+
 C50. **[KDD 2026]** <span style="color:rgb(0, 130, 196);">"**Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology**"</span>     
    Bin Wang, Shuo Lian#, Yuanyuan Hou, Dexian Wang, Peilan He, Feng Hong*, **Yanwei Yu***, Tianrui Li    
    *Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining*      
    (**CCF A**, acceptance rate=243/790=30.8%)       
    [📄 PDF](https://dl.acm.org/doi/10.1145/3770855.3818913) | [💻 Repository](https://github.com/sigma-ouc/2026KDD-AI4Science-CRS) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Machine+Learning+for+Depression+Screening+and+Intervention%3A+an+Original+Circadian+Rhythm+Score-based+Methodology&btnG=)
 
+J48. **[TBD]** <span style="color:rgb(0, 130, 196);">"**Center Contrastive Long-tailed Hashing for Unsupervised Remote Sensing Image Retrieval**"</span>     
+   Yuan Cao, Yifan Sun, Zifan Liu, Zuojin Huang, Jie Gui, **Yanwei Yu***     
+   *IEEE Transactions on Big Data*, (**JCR Q2**, **CCF C**)     
+   [📄 PDF](https://ieeexplore.ieee.org/document/11629583) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Center+Contrastive+Long-tailed+Hashing+for+Unsupervised+Remote+Sensing+Image+Retrieval&btnG=)
+
+J47. **[IOTJ]** <span style="color:rgb(0, 130, 196);">"**PE2F: A Pattern Effectiveness Evaluation and Filtering Framework for Model Pruning on Heterogeneous Edge Devices**"</span>     
+   **Yanwei Yu***, Lixian Jing, Chao Liu, Junyu Dong, Jianpeng Qi     
+   *IEEE Internet of Things Journal*, (**JCR Q1**, **CCF C**)     
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11626872) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PE2F%3A+A+Pattern+Effectiveness+Evaluation+and+Filtering+Framework+for+Model+Pruning+on+Heterogeneous+Edge+Devices&btnG=)
+
+J46. **[TMM]** <span style="color:rgb(0, 130, 196);">"**Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks**"</span>     
+   Yuan Cao, Tao Yang, Zifan Liu, Fanlei Meng, **Yanwei Yu***, Jie Gui, Yuan Yang Tang     
+   *IEEE Transactions on Multimedia*, (**JCR Q1 TOP**, **CCF A**)     
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11625984) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hedge+Defense-Based+Adversarial+Robustness+for+Cross-Modal+Deep+Hashing+Networks&btnG=)
+
+J45. **[TIP]** <span style="color:rgb(0, 130, 196);">"**Long-tailed Approaching Cross-modal Hashing with Multi-expert Collaborative Learning**"</span>     
+   Yuan Cao, Zifan Liu, Weikang Gao, Jie Gui, **Yanwei Yu***     
+   *IEEE Transactions on Image Processing*, (**JCR Q1 TOP**, **CCF A**)     
+   [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11623424) | [💻 Repository](https://github.com/caoyuan618/LACH) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Long-tailed+Approaching+Cross-modal+Hashing+with+Multi-expert+Collaborative+Learning&btnG=)
+
 C49. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Towards Efficient and Effective Unimodal Trajectory Representation Learning: A Simple Yet Powerful Approach**"</span>     
    Shaoxuan Gu#, Xingyu Zhao#, Dongliang Chen, Yuan Cao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
    (**CCF B**)       
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Efficient+and+Effective+Unimodal+Trajectory+Representation+Learning%3A+A+Simple+Yet+Powerful+Approach&btnG=)
+   [📄 PDF](https://www.ijcai.org/proceedings/2026/0294.pdf) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Efficient+and+Effective+Unimodal+Trajectory+Representation+Learning%3A+A+Simple+Yet+Powerful+Approach&btnG=)
 
 C48. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference**"</span>     
    Liangkun Chen#, Xiang Li#, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
    (**CCF B**)       
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dual-Channel+Hybrid+Graph+Neural+Network+for+Mobility+Social+Relationship+Inference&btnG=)
+   [📄 PDF](https://www.ijcai.org/proceedings/2026/0278.pdf) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dual-Channel+Hybrid+Graph+Neural+Network+for+Mobility+Social+Relationship+Inference&btnG=)
 
 C47. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference**"</span>     
    Jingjing Zhu#, Xiang Li#, Dongliang Chen, Haobing Liu, Yuan Cao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
    (**CCF B**)       
-   [📄 PDF](#) | [💻 Repository](https://github.com/Tilamisu-zz/DHISL) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Disentangled+Hypergraph+Network+with+Implicit+Structure+Learning+for+Mobility+Social+Relationship+Inference&btnG=)
+   [📄 PDF](https://www.ijcai.org/proceedings/2026/0370.pdf) | [💻 Repository](https://github.com/Tilamisu-zz/DHISL) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Disentangled+Hypergraph+Network+with+Implicit+Structure+Learning+for+Mobility+Social+Relationship+Inference&btnG=)
 
 C46. **[IJCAI 2026]** <span style="color:rgb(0, 130, 196);">"**Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment**"</span>     
    Yingjie Chen#, Xiang Li#, Dongliang Chen, Guoqing Chao, Zhongying Zhao, **Yanwei Yu***   
    *Proceedings of the 35th International Joint Conference on Artificial Intelligence*      
    (**CCF B**)       
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sentiment-aware+Rating-based+Recommendation+via+Semantic-enhanced+Item+Alignment&btnG=)
+   [📄 PDF](https://www.ijcai.org/proceedings/2026/0281.pdf) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Sentiment-aware+Rating-based+Recommendation+via+Semantic-enhanced+Item+Alignment&btnG=)
 
 C45. **[WWW 2026]** <span style="color:rgb(0, 130, 196);">"**Weighted Graph Clustering via Scale Contraction and Graph Structure Learning**"</span>       
    Haobing Liu, Yinuo Zhang, Tingting Wang, Ruobing Jiang*, **Yanwei Yu***    
@@ -114,7 +135,7 @@ C41. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**$\text{S}^2\text{H
    Yuchen Liu#, Kunyu Ni#, Zhongying Zhao, Guoqing Chao, **Yanwei Yu***    
    *Proceedings of the 40th AAAI Conference on Artificial Intelligence*  
    (**CCF A**, acceptance rate=4167/23680=17.6%)  
-   [📄 PDF](#) | [💻 Repository](https://github.com/sigma-ouc/2026AAAI-S2HyRec) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=S2HyRec%3A+Self-Supervised+Hypergraph+Sequential+Recommendation&btnG=)
+   [📄 PDF](https://ojs.aaai.org/index.php/AAAI/article/download/38566/42528) | [💻 Repository](https://github.com/sigma-ouc/2026AAAI-S2HyRec) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=S2HyRec%3A+Self-Supervised+Hypergraph+Sequential+Recommendation&btnG=)
 
 C40. **[AAAI 2026]** <span style="color:rgb(0, 130, 196);">"**Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning**"</span>       
    **Yanwei Yu***, Hong Xia#, Shaoxuan Gu#, Xingyu Zhao#, Dongliang Chen, Yuan Cao    
@@ -313,12 +334,12 @@ J25. **[FGCS]** <span style="color:rgb(0, 130, 196);">"**Self-Supervised Contras
 J24. **[KBS]** <span style="color:rgb(0, 130, 196);">"**Structural regularization based discriminative multi-view unsupervised feature selection**"</span>    
    Shixuan Zhou, Peng Song, **Yanwei Yu**, Wenming Zheng  
    *Knowledge-Based Systems*, (JCR Q1, **CCF C**)  
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Structural+regularization+based+discriminative+multi-view+unsupervised+feature+selection&btnG=)
+   [📄 PDF](https://yuyanwei.github.io/papers/1-s2.0-S0950705123003519-main.pdf) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Structural+regularization+based+discriminative+multi-view+unsupervised+feature+selection&btnG=)
 
 J23. **[ESWA]** <span style="color:rgb(0, 130, 196);">"**Session-based recommendation with hypergraph convolutional networks and sequential information embeddings**"</span>    
    Chengxin Ding, Zhongying Zhao, Chao Li, **Yanwei Yu**, Qingtian Zeng  
    *Expert Systems with Applications 223*, (JCR Q1, **CCF C**)  
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Session-based+recommendation+with+hypergraph+convolutional+networks+and+sequential+information+embeddings&btnG=)
+   [📄 PDF](https://yuyanwei.github.io/papers/1-s2.0-S0957417423003767-main.pdf) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Session-based+recommendation+with+hypergraph+convolutional+networks+and+sequential+information+embeddings&btnG=)
 
 J22. **[ESWA]** <span style="color:rgb(0, 130, 196);">"**OSGNN: Original graph and Subgraph aggregated Graph Neural Network**"</span>    
    Yeyu Yan, Chao Li, **Yanwei Yu**, Xiangju Li, Zhongying Zhao  
@@ -359,7 +380,7 @@ C18. **[KDD 2022]** <span style="color:rgb(0, 130, 196);">"**Multi-Behavior Hype
    Yuhao Yang, Chao Huang, Lianghao Xia, Yuxuan Liang, **Yanwei Yu**, Chenliang Li  
    *Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining*  
    (**CCF A**, acceptance rate=254/1695=15%)  
-   [📄 PDF](#) | [💻 Repository](https://github.com/Onedean/MainTUL) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Multi-Behavior+Hypergraph-Enhanced+Transformer+for+Next-Item+Recommendation&btnG=)
+   [📄 PDF](https://yuyanwei.github.io/papers/chaohuang2022multibehaviorKDD.pdf) | [💻 Repository](https://github.com/Onedean/MainTUL) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Multi-Behavior+Hypergraph-Enhanced+Transformer+for+Next-Item+Recommendation&btnG=)
 
 C17. **[IJCAI 2022]** <span style="color:rgb(0, 130, 196);">"**Mutual Distillation Learning Network for Trajectory-User Linking**"</span>    
    Wei Chen#, Shuzhe Li#, Chao Huang, **Yanwei Yu***, Yongguo Jiang, Junyu Dong  

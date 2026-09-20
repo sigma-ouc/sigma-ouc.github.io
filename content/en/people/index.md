@@ -54,14 +54,14 @@ sections:
               <td style="border: none; padding: 0.75rem;">
                 <a href="https://qijianpeng.github.io/" target="_blank">齐建鹏</a>
               </td>
-              <td style="border: none; padding: 0.75rem;">IJDSN（一作，中科院四区），浙大学报(工学版)（一作，EI），SocialCom（一作，EI）</td>
+              <td style="border: none; padding: 0.75rem;">IJDSN（一作，中科院四区），浙大学报(工学版)（一作，EI），SocialCom（一作，EI）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">北京科技大学读博</td>
               <td style="border: none; padding: 0.75rem;">青岛科技大学特聘副教授</td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2016</td>
               <td style="border: none; padding: 0.75rem;">赵冠哲</td>
-              <td style="border: none; padding: 0.75rem;">IEEE ACCESS（一作，中科院二区），智能系统学报（一作，中文核心）</td>
+              <td style="border: none; padding: 0.75rem;">IEEE ACCESS（一作，中科院二区），智能系统学报（一作，中文核心）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">审计署驻济南办事处</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -131,14 +131,14 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2020</td>
               <td style="border: none; padding: 0.75rem;">陈伟</td>
-              <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），TKDD（一作，CCF B）</td>
-              <td style="border: none; padding: 0.75rem;">香港科技大学（广州）/ 国家奖学金，山东省优秀毕业生</td>
+              <td style="border: none; padding: 0.75rem;">IJCAI（一作，CCF A），TKDD（一作，CCF B）/ 国家奖学金，山东省优秀毕业生</td>
+              <td style="border: none; padding: 0.75rem;">香港科技大学（广州）</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2020</td>
               <td style="border: none; padding: 0.75rem;">于澎洋</td>
-              <td style="border: none; padding: 0.75rem;">KDD（一作，CCF A）</td>
+              <td style="border: none; padding: 0.75rem;">KDD（一作，CCF A）/ 国家奖学金</td>
               <td style="border: none; padding: 0.75rem;">鼎信</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -208,14 +208,14 @@ sections:
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2021</td>
               <td style="border: none; padding: 0.75rem;">李树哲</td>
-              <td style="border: none; padding: 0.75rem;">ACM TOIS（一作，CCF A），FGCS（共一，中科院一区）</td>
+              <td style="border: none; padding: 0.75rem;">ACM TOIS（一作，CCF A），FGCS（共一，中科院一区）/ 小米特等奖学金</td>
               <td style="border: none; padding: 0.75rem;">快手</td>
               <td style="border: none; padding: 0.75rem;">字节跳动-抖音总部</td>
             </tr>
             <tr style="border-bottom: 1px solid #dee2e6;">
               <td style="border: none; padding: 0.75rem;">2021</td>
               <td style="border: none; padding: 0.75rem;">付超凡</td>
-              <td style="border: none; padding: 0.75rem;">KDD（一作，CCF A），ACM TIST（一作，中科院二区）</td>
+              <td style="border: none; padding: 0.75rem;">KDD（一作，CCF A），ACM TIST（一作，中科院二区）/ 小米特等奖学金</td>
               <td style="border: none; padding: 0.75rem;">淄博市公安局</td>
               <td style="border: none; padding: 0.75rem;"></td>
             </tr>
@@ -383,5 +383,3 @@ sections:
           </tbody>
         </table>    
 ---
-
-

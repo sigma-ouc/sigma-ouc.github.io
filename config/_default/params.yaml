@@ -37,7 +37,7 @@ header:
   #选择一个导航块
   navbar:
     enable: true #显示导航栏？
-    align: c #对齐菜单链接：左（l）、中（c）或右（r）
+    align: r #对齐菜单链接：左（l）、中（c）或右（r）
     show_logo: true #在导航栏中显示您的网站标题或“assets/media/logo*”图像？
     # logo:  # ← 新增logo配置
     #   image: "images/logo.png"  # 路径相对于static/目录

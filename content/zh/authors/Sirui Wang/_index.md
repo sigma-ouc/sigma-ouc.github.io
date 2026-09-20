@@ -13,7 +13,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-index: "Phd2601"
+index: "Phd2602"
 
 # Role/position
 role: 2026博士生
