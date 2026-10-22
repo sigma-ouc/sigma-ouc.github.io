@@ -474,10 +474,12 @@ body {
   align-items: center;
   justify-content: center;
   padding: 2rem;
+  overflow: auto;
   background: rgba(8, 25, 42, 0.82);
   opacity: 0;
   pointer-events: none;
   transition: opacity 180ms ease;
+  overscroll-behavior: contain;
 }
 
 .sigma-lightbox.is-open {
@@ -487,12 +489,16 @@ body {
 
 .sigma-lightbox img {
   display: block;
-  width: 92vw;
-  max-width: 1200px;
-  max-height: 88vh;
+  width: auto;
+  height: auto;
+  max-width: calc(100vw - 4rem);
+  max-height: calc(100vh - 4rem);
   border-radius: 0.7rem;
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
   object-fit: contain;
+  transform-origin: center center;
+  transition: transform 120ms ease;
+  cursor: zoom-in;
 }
 
 .sigma-lightbox-arrow {
@@ -520,6 +526,15 @@ body {
 .sigma-lightbox-arrow-next { right: 1.25rem; }
 
 @media (max-width: 600px) {
+  .sigma-lightbox {
+    padding: 3.75rem 0.75rem 0.75rem;
+  }
+
+  .sigma-lightbox img {
+    max-width: calc(100vw - 1.5rem);
+    max-height: calc(100vh - 4.5rem);
+  }
+
   .sigma-lightbox-arrow {
     width: 2.5rem;
     height: 2.5rem;

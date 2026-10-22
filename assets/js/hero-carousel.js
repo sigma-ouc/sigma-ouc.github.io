@@ -9,6 +9,7 @@
       '/images/hero-carousel/03.jpg',
       '/images/hero-carousel/04.jpg',
       '/images/hero-carousel/05.jpg?v=20260920-1',
+      '/images/hero-carousel/06.jpg?v=20260922-1',
       '/images/hero-carousel/heying.jpg',
       '/images/hero-carousel/heying2.jpg',
     ];
@@ -24,9 +25,24 @@
     lightbox.innerHTML = '<button class="sigma-lightbox-close" type="button" aria-label="Close enlarged image">×</button><button class="sigma-lightbox-arrow sigma-lightbox-arrow-prev" type="button" aria-label="Previous enlarged image">‹</button><img alt=""><button class="sigma-lightbox-arrow sigma-lightbox-arrow-next" type="button" aria-label="Next enlarged image">›</button>';
     document.body.appendChild(lightbox);
     const lightboxImage = lightbox.querySelector('img');
+    let zoomScale = 1;
+    const resetZoom = () => {
+      zoomScale = 1;
+      lightboxImage.style.transform = 'scale(1)';
+    };
+    const zoomWithWheel = (event) => {
+      if (!lightbox.classList.contains('is-open')) return;
+      event.preventDefault();
+      zoomScale = Math.min(4, Math.max(1, zoomScale + (event.deltaY < 0 ? 0.2 : -0.2)));
+      lightboxImage.style.transform = `scale(${zoomScale})`;
+    };
+    lightbox.addEventListener('wheel', zoomWithWheel, { passive: false });
     const lightboxPrevious = lightbox.querySelector('.sigma-lightbox-arrow-prev');
     const lightboxNext = lightbox.querySelector('.sigma-lightbox-arrow-next');
-    const closeLightbox = () => lightbox.classList.remove('is-open');
+    const closeLightbox = () => {
+      resetZoom();
+      lightbox.classList.remove('is-open');
+    };
     lightbox.addEventListener('click', (event) => {
       if (event.target === lightbox || event.target.classList.contains('sigma-lightbox-close')) closeLightbox();
     });
@@ -46,6 +62,7 @@
       slide.setAttribute('tabindex', '0');
       slide.addEventListener('click', () => {
         current = index;
+        resetZoom();
         lightboxImage.src = slide.src;
         lightboxImage.alt = slide.alt;
         lightbox.classList.add('is-open');
@@ -97,12 +114,14 @@
       showSlide(current);
       lightboxImage.src = slides[current].src;
       lightboxImage.alt = slides[current].alt;
+      resetZoom();
     });
     lightboxNext.addEventListener('click', () => {
       current = (current + 1) % images.length;
       showSlide(current);
       lightboxImage.src = slides[current].src;
       lightboxImage.alt = slides[current].alt;
+      resetZoom();
     });
     previous.addEventListener('click', () => {
       current = (current - 1 + images.length) % images.length;
