@@ -52,6 +52,12 @@
     // Publication figures supplied with paper-title filenames. Keyed by paper ID
     // so archive reordering cannot change the image assigned to a paper.
     const namedFigures = {
+      C52: '/images/publications/Coupling Multi-Physics Processes and Multi-Scale Data Correlations for Environmental Spatiotemporal Forecasting.png',
+      J53: '/images/publications/可解释证据增强的连续时间动态图神经网络.png',
+      J52: '/images/publications/动态增强双图协同学习的多元时间序列预测网络.png',
+      J49: '/images/publications/Mutual Protein-Molecule Hash Learning for TargetedDrug Virtual Screening.png',
+      J50: '/images/publications/Efficient Discovery of Motif Transition Process forLarge-Scale Temporal Graphs.png',
+      J51: '/images/publications/Trajectory Data Management and Mining A Survey From Deep Learning to the LLM Era.png',
       C39: '/images/publications/TrajAgg Dual-Scale Feature Aggregation with Hybrid Training for Trajectory Similarity Computation in Free Space.png',
       C40: '/images/publications/Self-Supervised Cross-City Trajectory Representation Learning Based on Meta-Learning.png',
       C41: '/images/publications/Self-Supervised Hypergraph Sequential Recommendation.png',
@@ -143,6 +149,7 @@
       '/images/publications/18.png',
       '/images/publications/19.png',
     ];
+    const publicationsWithoutFigures = new Set();
     const cards = archive.querySelectorAll(':scope > p');
     const lightbox = document.createElement('div');
     lightbox.className = 'sigma-lightbox';
@@ -177,15 +184,22 @@
 
     cards.forEach((card, index) => {
       const match = card.textContent.trim().match(/^([CJ]\d+)\./);
-      if (!match || card.dataset.figureReady === 'true') return;
+      if (card.dataset.figureReady === 'true') return;
 
-      const paperId = match[1];
+      const paperId = match ? match[1] : null;
       const copy = document.createElement('div');
       copy.className = 'paper-copy';
       copy.innerHTML = card.innerHTML;
       // Keep the publication ID internally for figure matching, but hide it from the visible card.
-      if (copy.firstChild && copy.firstChild.nodeType === Node.TEXT_NODE) {
+      if (paperId && copy.firstChild && copy.firstChild.nodeType === Node.TEXT_NODE) {
         copy.firstChild.textContent = copy.firstChild.textContent.replace(/^[CJ]\d+\.\s*/, '');
+      }
+
+      if (!paperId || publicationsWithoutFigures.has(paperId)) {
+        card.classList.add('sigma-publication-no-figure');
+        card.replaceChildren(copy);
+        card.dataset.figureReady = 'true';
+        return;
       }
 
       const figure = document.createElement('figure');
@@ -224,6 +238,8 @@
       card.replaceChildren(figure, copy);
       card.dataset.figureReady = 'true';
     });
+
+    archive.classList.add('is-gallery-ready');
   };
 
   if (document.readyState === 'loading') {
