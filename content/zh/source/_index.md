@@ -36,12 +36,12 @@ translationKey: source-page
 
 | 方向 | 主方向论文数 |
 |---|:---:|
-| [Spatiotemporal Data Mining](#spatiotemporal-data-mining) | 24 |
-| [Graph Neural Networks](#graph-neural-networks) | 21 |
-| [Graph Data Mining](#graph-data-mining) | 5 |
+| [Spatiotemporal Data Mining](#spatiotemporal-data-mining) | 28 |
+| [Graph Neural Networks](#graph-neural-networks) | 23 |
+| [Graph Data Mining](#graph-data-mining) | 12 |
 | [Multivariate Time Series Forecasting](#multivariate-time-series-forecasting) | 4 |
-| [Edge Computing](#edge-computing) | 2 |
-| [Data Mining](#data-mining) | 7 |
+| [Edge Computing](#edge-computing) | 3 |
+| [Data Mining](#data-mining) | 11 |
 | [AI4DB](#ai4db) | 1 |
 
 <a id="spatiotemporal-data-mining"></a>
@@ -52,6 +52,9 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| 基于动态增强双图协同学习网络的多元时间序列预测 | 2027 | 软件学报<br>(<span class="sigma-source-badge">CCF A</span>) | TODO | [Code](https://github.com/sigma-ouc/D2GraNet) |
+| Coupling Multi-Physics Processes and Multi-Scale Data Correlation Learning for Environmental Spatiotemporal Forecasting | 2027 | IEEE International Conference on Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>) | TODO | [Code](https://github.com/sigma-ouc/2027ICDE-Env4Cast) |
+| Trajectory Data Management and Mining: A Survey From Deep Learning to the LLM Era | 2026 | IEEE Transactions on Knowledge and Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11631853) | TODO |
 | ST-Imputer: Multivariate dependency-aware diffusion network with physics guidance for spatiotemporal imputation | 2026 | Information Fusion<br>(JCR Q1, CAAI A) | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525011467) | [Code](https://github.com/sigma-ouc/2026-Information-Fusion-ST-Imputer) |
 | Trajectory Similarity Hash Learning with Spatio-Temporal GRU | 2026 | IEEE Transactions on Big Data<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11432961) | [Code]( https://github.com/caoyuan618/Traj-ST) |
 | FlightDiff: a dual-constraint guided two-phase diffusion framework for accurate flight prediction | 2026 | GeoInformatica<br>(<span class="sigma-source-badge">CCF B</span>) | [Paper](https://link.springer.com/article/10.1007/s10707-025-00559-7) | TODO |
@@ -87,6 +90,8 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| 可解释证据增强的连续时间动态图神经网络 | 2027 | 软件学报<br>(<span class="sigma-source-badge">CCF A</span>) | TODO | TODO |
+| Long-tailed Approaching Cross-modal Hashing with Multi-expert Collaborative Learning | 2026 | IEEE Transactions on Image Processing<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11623424) | TODO |
 | Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference | 2026 | Proceedings of the 35th International Joint Conference on Artificial Intelligence<br>(<span class="sigma-source-badge">CCF B</span>) | TODO | [Code](https://github.com/Tilamisu-zz/DHISL) |
 | Dynamic Dual-Channel Asynchronous Graph Neural Network for Traffic Prediction with Missing Values | 2026 | Fundamental Research<br>(JCR Q1) | [Paper](https://www.sciencedirect.com/science/article/pii/S2667325826001652) | TODO |
 | ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion | 2026 | Proceedings of the ACM Web Conference<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=676/3370=20.1%) | [Paper](https://dl.acm.org/doi/10.1145/3774904.3792347) | [Code](https://github.com/sigma-ouc/2026-WWW-ScaleGNN)|
@@ -124,6 +129,7 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| Efficient Discovery of Motif Transition Process for Large-Scale Temporal Graphs | 2026 | ACM Transactions on Knowledge Discovery from Data<br>(<span class="sigma-source-badge">CCF B</span>) | [Paper](https://dl.acm.org/doi/10.1145/3840390) | [Code](https://github.com/sigma-ouc/2026TKDD-PAMT) |
 | Weighted Graph Clustering via Scale Contraction and Graph Structure Learning | 2026 | Proceedings of the ACM Web Conference<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=676/3370=20.1%) | [Paper](https://dl.acm.org/doi/10.1145/3774904.3792363) | TODO |
 | Efficiently Counting Four-Node Motifs in Large-Scale Temporal Graphs | 2025 | The VLDB Jounral<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://doi.org/10.1007/s00778-025-00926-8) | TODO |
 | UMGAD: Unsupervised Multiplex Graph Anomaly Detection | 2025 | Proceedings of 41th IEEE International Conference on Data Engineering<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=300/1465=20.5%) | [Paper](10.1109/ICDE65448.2025.00278) | [Code](https://github.com/sigma-ouc/2025ICDE-UMGAD) |
@@ -170,6 +176,7 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| PE2F: A Pattern Effectiveness Evaluation and Filtering Framework for Model Pruning on Heterogeneous Edge Devices | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11626872) | TODO |
 | Decision-Aware Status Updating for Multi-AP Compute-First Networking Under Transmission Constraints | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/document/11424561?denied=) | TODO |
 | Efficient Information Updates in Compute-First Networking via Reinforcement Learning With Joint AoI and VoI | 2026 | IEEE Internet of Things Journal<br>(JCR Q1, <span class="sigma-source-badge">CCF C</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11396674) | TODO |
 
@@ -187,6 +194,9 @@ translationKey: source-page
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
+| Mutual Protein-Molecule Hash Learning for Targeted Drug Virtual Screening | 2026 | IEEE Transactions on Multimedia<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11685401) | TODO |
+| Center Contrastive Long-tailed Hashing for Unsupervised Remote Sensing Image Retrieval | 2026 | IEEE Transactions on Multimedia<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://ieeexplore.ieee.org/document/11629583) | TODO |
+| Hedge Defense-Based Adversarial Robustness for Cross-Modal Deep Hashing Networks | 2026 | Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining<br>(<span class="sigma-source-badge">CCF A</span>) | [Paper](https://ieeexplore.ieee.org/abstract/document/11625984) | TODO |
 | Machine Learning for Depression Screening and Intervention: an Original Circadian Rhythm Score-based Methodology | 2026 | Proceedings of the 32th ACM SIGKDD Conference on Knowledge Discovery and Data Mining<br>(<span class="sigma-source-badge">CCF A</span>, acceptance rate=243/790=30.8%) | [Paper](https://dl.acm.org/doi/10.1145/3770855.3818913) | [Code](https://github.com/sigma-ouc/2026KDD-AI4Science-CRS) |
 | Scalable KDE-based top-N local outlier detection over large-scale data streams | 2020 | Knowledge-Based Systems<br>(<span class="sigma-source-badge">CCF C</span>) | [Paper](https://doi.org/10.1016/j.knosys.2020.106186) | [Code](https://github.com/sigma-ouc/2020KBS-TopNKOF) |
 | Layer-constrained variational autoencoding kernel density estimation model for anomaly detection | 2020 | Knowledge-Based Systems<br>(<span class="sigma-source-badge">CCF C</span>) | [Paper](https://doi.org/10.1016/j.knosys.2020.105753) | TODO |
