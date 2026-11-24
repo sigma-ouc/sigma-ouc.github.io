@@ -14,20 +14,20 @@ banner:
 
 ## 📚 2027
 
-C52. **[ICDE 2027]** <span style="color:rgb(0, 130, 196);">"**Env4Cast: Coupling Multi-Physics Processes and Multi-Scale Data Correlations for Environmental Spatiotemporal Forecasting**"</span>  
-   Xingyu Zhao#, Dongliang Chen, Lei Zhou, Guoqing Chao, Lei Cao, Junyu Dong, **Yanwei Yu***  
-   *Proceedings of the 43rd IEEE International Conference on Data Engineering (ICDE 2027)* (**CCF A**)  
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Env4Cast%3A+Coupling+Multi-Physics+Processes+and+Multi-Scale+Data+Correlations+for+Environmental+Spatiotemporal+Forecasting&btnG=)
+J53. **[JOS]** <span style="color:rgb(0, 130, 196);">"**可解释证据增强的连续时间动态图神经网络**"</span>  
+   **Yanwei Yu***, Yiming He#, Xiang Li#, Xianfeng Tang, Junyu Dong  
+   *软件学报*, (**CCF A**中文期刊)  
+   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%E5%8F%AF%E8%A7%A3%E9%87%8A%E8%AF%81%E6%8D%AE%E5%A2%9E%E5%BC%BA%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%97%B6%E9%97%B4%E5%8A%A8%E6%80%81%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C&btnG=)
 
 J52. **[JOS]** <span style="color:rgb(0, 130, 196);">"**动态增强双图协同学习的多元时间序列预测网络**"</span>  
    Yanwei Yu, Han Yan#, Xingyu Zhao#, **Dongliang Chen***, Lei Cao, **Junyu Dong***  
    *软件学报*, (**CCF A**中文期刊)  
    [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%E5%8A%A8%E6%80%81%E5%A2%9E%E5%BC%BA%E5%8F%8C%E5%9B%BE%E5%8D%8F%E5%90%8C%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A4%9A%E5%85%83%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B%E7%BD%91%E7%BB%9C&btnG=)
 
-J53. **[JOS]** <span style="color:rgb(0, 130, 196);">"**可解释证据增强的连续时间动态图神经网络**"</span>  
-   **Yanwei Yu***, Yiming He#, Xiang Li#, Xianfeng Tang, Junyu Dong  
-   *软件学报*, (**CCF A**中文期刊)  
-   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%E5%8F%AF%E8%A7%A3%E9%87%8A%E8%AF%81%E6%8D%AE%E5%A2%9E%E5%BC%BA%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%97%B6%E9%97%B4%E5%8A%A8%E6%80%81%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C&btnG=)
+C52. **[ICDE 2027]** <span style="color:rgb(0, 130, 196);">"**Env4Cast: Coupling Multi-Physics Processes and Multi-Scale Data Correlations for Environmental Spatiotemporal Forecasting**"</span>  
+   Xingyu Zhao#, Dongliang Chen, Lei Zhou, Guoqing Chao, Lei Cao, Junyu Dong, **Yanwei Yu***  
+   *Proceedings of the 43rd IEEE International Conference on Data Engineering (ICDE 2027)* (**CCF A**)  
+   [📄 PDF](#) | [💻 Repository](#) | [📑 Cite](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Env4Cast%3A+Coupling+Multi-Physics+Processes+and+Multi-Scale+Data+Correlations+for+Environmental+Spatiotemporal+Forecasting&btnG=)
 
 C51. **[SIGMOD 2027]** <span style="color:rgb(0, 130, 196);">"**FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction**"</span>     
    Kunyu Ni#, Lei Cao, Jie He, Xiaotong Zhang, Jianfeng Jin, Junyu Dong, **Yanwei Yu***   
