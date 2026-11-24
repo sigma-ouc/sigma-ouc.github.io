@@ -413,7 +413,7 @@ body {
   backdrop-filter: blur(10px);
 }
 
-.sigma-publications > p {
+.sigma-publications.is-gallery-ready > p {
   display: grid;
   grid-template-columns: minmax(8rem, 13rem) minmax(0, 1fr);
   gap: 0.6rem;
@@ -429,6 +429,10 @@ body {
   font-size: 0.82rem;
   line-height: 1.2;
   transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.sigma-publications.is-gallery-ready > p.sigma-publication-no-figure {
+  grid-template-columns: minmax(0, 1fr);
 }
 
 .paper-copy {
@@ -590,41 +594,41 @@ body {
   text-transform: uppercase;
 }
 
-.sigma-publications > p:hover .paper-figure::after {
+.sigma-publications.is-gallery-ready > p:hover .paper-figure::after {
   transform: translateX(120%);
 }
 
-.sigma-publications > p:hover .paper-figure img {
+.sigma-publications.is-gallery-ready > p:hover .paper-figure img {
   filter: saturate(1.08) contrast(1.03);
   transform: scale(1.06);
 }
 
-.sigma-publications > p:hover {
+.sigma-publications.is-gallery-ready > p:hover {
   border-left-color: var(--sigma-blue);
   box-shadow: 0 14px 32px rgba(16, 42, 67, 0.1);
   transform: translateY(-2px);
 }
 
-.sigma-publications > p > strong:first-child {
+.sigma-publications.is-gallery-ready > p > strong:first-child {
   color: var(--sigma-blue);
   font-size: 0.82rem;
   letter-spacing: 0.04em;
 }
 
-.sigma-publications > p > span[style*='rgb'] {
+.sigma-publications.is-gallery-ready > p > span[style*='rgb'] {
   color: var(--sigma-ink) !important;
 }
 
-.sigma-publications > p > span[style*='rgb'] strong {
+.sigma-publications.is-gallery-ready > p > span[style*='rgb'] strong {
   font-size: 0.9rem;
   font-weight: 750;
 }
 
-.sigma-publications > p em {
+.sigma-publications.is-gallery-ready > p em {
   color: var(--sigma-ink);
 }
 
-.sigma-publications > p a {
+.sigma-publications.is-gallery-ready > p a {
   color: var(--sigma-blue);
   display: inline-block;
   margin-right: 0.35rem;
@@ -633,7 +637,7 @@ body {
   text-decoration: none;
 }
 
-.sigma-publications > p a:hover {
+.sigma-publications.is-gallery-ready > p a:hover {
   text-decoration: underline;
 }
 
@@ -648,13 +652,13 @@ body {
     font-size: 1.45rem;
   }
 
-  .sigma-publications > p {
+  .sigma-publications.is-gallery-ready > p {
     grid-template-columns: 1fr;
     padding: 0.25rem;
     font-size: 0.84rem;
   }
 
-  .sigma-publications > p > span[style*='rgb'] strong {
+  .sigma-publications.is-gallery-ready > p > span[style*='rgb'] strong {
     font-size: 0.9rem;
   }
 
